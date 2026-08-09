@@ -1,0 +1,6 @@
+[submodule "toolchain/msxx_txt"]
+	path = toolchain/msxx_txt
+	url = https://github.com/wyz-2015/msxx_txt/
+[submodule "toolchain/msxx_fontlib"]
+	path = toolchain/msxx_fontlib
+	url = https://github.com/wyz-2015/msxx_fontlib/

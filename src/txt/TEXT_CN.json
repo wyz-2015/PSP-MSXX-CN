@@ -1,0 +1,10424 @@
+[
+	{
+		"blockCount": 313,
+		"blockList": [
+			{
+				"id": 1352,
+				"charCount": 964,
+				"strList": [
+					""
+				]
+			},
+			{
+				"id": 100,
+				"charCount": 816,
+				"strList": [
+					"【玛尔科·罗西】",
+					"七人中最擅长使用重型机关枪。运用均衡的能力突破各种困难。",
+					"【本名】玛尔克里乌斯·丹尼斯·罗西 (Marchrius Dennis Rossi)",
+					"【小传】",
+					"意大利籍美国人，在州立工业系高中学习后，就读于士官学校的特殊技术专门学校。毕业后成为了特种部队“游隼·猎鹰 (Peregrine Falcon)”(通常称“PF队”)的一员。多数时候都是温厚的性格。非常憎恨夺走自己友人和同事生命的摩登元帅。他又是特种部队里的高级特工兼精英黑客。其用休闲时间自制的病毒程序曾误入部队里的中枢计算机，并突破多道安全程序险些导致核弹发射——这个事件是他带进坟墓的秘密。",
+					""
+				]
+			},
+			{
+				"id": 101,
+				"charCount": 300,
+				"strList": [
+					"【玛尔科·罗西】",
+					"七人中最棒的手枪专家。运用均衡的能力突破各种困难。",
+					"【本名】玛尔克里乌斯·丹尼斯·罗西 (Marchrius Dennis Rossi)",
+					"【性别】男",
+					"【国籍·出身地】美国·爱达荷州",
+					"【职级】正规军PF队第1中队少校队长",
+					"【年龄】25岁",
+					"【身高】180cm",
+					"【体重】75kg",
+					"【血型】A型",
+					""
+				]
+			},
+			{
+				"id": 102,
+				"charCount": 528,
+				"strList": [
+					"【玛尔科·罗西】",
+					"七人中最棒的手枪专家。运用均衡的能力突破各种困难。",
+					"【本名】玛尔克里乌斯·丹尼斯·罗西 (Marchrius Dennis Rossi)",
+					"【业余爱好】计算机程序设计",
+					"【喜欢的食物】中国面条",
+					"【喜好】用自制的AI程序在网上与别人对战。",
+					"【讨厌的东西】餐馆前排队的人",
+					"【重要的东西】忘我地沉浸在趣味里的时光",
+					"【绝技】计算机程序运行速度的估算、地铁乘过头、模仿打醉拳",
+					"【口头禅】有空的话，就多看看程序源码！",
+					""
+				]
+			},
+			{
+				"id": 200,
+				"charCount": 1020,
+				"strList": [
+					"【塔玛·罗宾】",
+					"七人中最能熟练操纵坦克及战斗机等的兵器的专家。用压倒性的火力扫荡敌人。",
+					"【本名】塔米克尔·罗宾三世 (Tarmicle Roving III)",
+					"【小传】",
+					"父亲就是位优秀军人。少年高中毕业后，进入了军队特种战术战斗员培训学校。20岁时的一次营救总统的任务中被分配在正规军的PF队，与玛尔科一见如故，成为了独一无二的挚友。在一场大战的反攻作战里听说玛尔科被选中后，自己也自愿加入。与玛尔科一起在激战中奋战后生还。大战后与玛尔科共同晋升，成为上尉。私下里经常会与玛尔科一起疯玩，但作为战斗人员，对他还是充满敬意的。喜欢自己组装摩托，其技术水平连专职人士都自愧不如。第一次摩登大战后曾打算引退开摩托店，但后来被上司拼命说服后计划泡汤。",
+					""
+				]
+			},
+			{
+				"id": 201,
+				"charCount": 354,
+				"strList": [
+					"【塔玛·罗宾】",
+					"七人中最能熟练操纵坦克及战斗机等的兵器的专家。用压倒性的火力扫荡敌人。",
+					"【本名】塔米克尔·罗宾三世 (Tarmicle Roving III)",
+					"【性别】男",
+					"【国籍·出身地】日本·北海道",
+					"【职级】正规军PF队第1中队上尉副队长",
+					"【年龄】25岁",
+					"【身高】174cm",
+					"【体重】68kg",
+					"【血型】AB型",
+					""
+				]
+			},
+			{
+				"id": 202,
+				"charCount": 468,
+				"strList": [
+					"【塔玛·罗宾】",
+					"七人中最能熟练操纵坦克及战斗机等的兵器的专家。用压倒性的火力扫荡敌人。",
+					"【本名】塔米克尔·罗宾三世 (Tarmicle Roving III)",
+					"【业余爱好】自己组装摩托",
+					"【喜欢的食物】纳豆饭",
+					"【喜好】独自驾驶摩托兜风",
+					"【讨厌的东西】肤浅的人",
+					"【重要的东西】亲近大自然的时间",
+					"【绝技】钣金涂装、野营(任何地方都能睡)",
+					"【口头禅】想想下一步吧……",
+					""
+				]
+			},
+			{
+				"id": 300,
+				"charCount": 836,
+				"strList": [
+					"【笠本 英里】",
+					"拥有“孟菲斯炸弹女”之称的爆破专家。用自己的专长为战友提供强劲的援护，让敌人葬身于爆炸后的烟尘之中。",
+					"【本名】笠本 英里 (ERI KASAMOTO)",
+					"【小传】",
+					"孤儿，在教会门口被发现。在懂事后离开教会，之后成为了街头小流氓的老大。正规军情报部看中了她的战斗能力并给予了专门军训。作为一名接受过精英特训的间谍完成了数不清的高难度任务。虽然完成了一连串暗杀、阴谋任务，但本人很反感这样的任务。故志愿参加特种部队“麻雀”。虽然进入的门坎很高，但考虑到她的卓越能力和功绩，还是破格录用了。第二次政变镇压作战里充分发挥出自己的能力，成功阻止了摩登军的第二次政变。并晋升为下士。",
+					""
+				]
+			},
+			{
+				"id": 301,
+				"charCount": 424,
+				"strList": [
+					"【笠本 英里】",
+					"拥有“孟菲斯炸弹女”之称的爆破专家。用自己的专长为战友提供强劲的援护，让敌人葬身于爆炸后的烟尘之中。",
+					"【本名】笠本 英里 (ERI KASAMOTO)",
+					"【性别】女",
+					"【国籍·出身地】日本·广岛",
+					"【职级】正规军情报部特种部队“麻雀(SPARROWS)”下士",
+					"【年龄】20岁",
+					"【身高】168cm",
+					"【体重】50kg",
+					"【三围】(80, 57, 86)",
+					"【血型】B型",
+					""
+				]
+			},
+			{
+				"id": 302,
+				"charCount": 458,
+				"strList": [
+					"【笠本 英里】",
+					"拥有“孟菲斯炸弹女”之称的爆破专家。用自己的专长为战友提供强劲的援护，让敌人葬身于爆炸后的烟尘之中。",
+					"【本名】笠本 英里 (ERI KASAMOTO)",
+					"【业余爱好】游泳",
+					"【喜欢的食物】Spirytus (当世最强烈酒)",
+					"【喜好】漫无目的地散步",
+					"【讨厌的东西】乘坐自己不会操纵的载具",
+					"【重要东西】第一次用的枪的扳机",
+					"【绝技】开锁、生存技巧",
+					"【口头禅】人，是孤独的。",
+					""
+				]
+			},
+			{
+				"id": 400,
+				"charCount": 820,
+				"strList": [
+					"【菲奥·吉尔米】",
+					"拥有最多的持弹量，七人中能制造最为华丽的弹幕。无论多厚的装甲在她面前犹如一张薄纸。",
+					"【本名】菲奥丽娜·吉尔米 (Fiolina Germi)",
+					"【小传】",
+					"意大利豪门吉尔米家族的独生女。吉尔米家族是军人世家，菲奥的父亲曾希望第一胎能是坚强的男孩。但是在难产后诞生的却是个娇小的女孩子，并且母亲的身体以后无法再产子了。在漫长的吉尔米家族的历史上这是第一次由女孩成为后继者。由于家规规定一家之主必须是军人，菲奥还什么都不清楚地情况下就被强迫参加了正规军。与英里的成长环境完全相反，自幼受到双亲的爱护，造就了贤淑大方的性格。大学里学习了整脊和针灸，梦想将来能成为运动医学医生。",
+					""
+				]
+			},
+			{
+				"id": 401,
+				"charCount": 396,
+				"strList": [
+					"【菲奥·吉尔米】",
+					"拥有最多的持弹量，七人中能制造最为华丽的弹幕。无论多厚的装甲在她面前犹如一张薄纸。",
+					"【本名】菲奥丽娜·吉尔米 (Fiolina Germi)",
+					"【性别】女",
+					"【国籍·出身地】意大利·热那亚",
+					"【职级】正规军情报部特种部队“麻雀(SPARROWS)”军士长",
+					"【年龄】22岁",
+					"【身高】158cm",
+					"【体重】43kg",
+					"【三围】(88, 58, 89)",
+					"【血型】O型",
+					""
+				]
+			},
+			{
+				"id": 402,
+				"charCount": 436,
+				"strList": [
+					"【菲奥·吉尔米】",
+					"拥有最多的持弹量，七人中能制造最为华丽的弹幕。无论多厚的装甲在她面前犹如一张薄纸。",
+					"【本名】菲奥丽娜·吉尔米 (Fiolina Germi)",
+					"【业余爱好】料理、刺绣",
+					"【喜欢的食物】冰茶 (QUEEN MERRY)",
+					"【喜好】烹饪蛋糕",
+					"【讨厌的东西】热饮、热水澡",
+					"【重要的东西】出生时伴随自己的熊宝宝(毛绒玩具)",
+					"【绝技】正骨、所有家务、交谊舞",
+					"【口头禅】放心，没事。",
+					""
+				]
+			},
+			{
+				"id": 500,
+				"charCount": 662,
+				"strList": [
+					"【拉尔夫·琼斯】",
+					"相比六名队友，拥有最快的近身作战速度。持弹量虽少，但光靠赤手空拳就能重创对手。",
+					"【小传】",
+					"在所属的佣兵部队里被称作上校，但详细的经历成谜。据说出身自某国的特种部队，曾根除了某地下组织。但这些近乎传说之事让人听过后也就一笑了之，事实上其本人对这些传闻没任何兴趣。似乎与佣兵部队统帅很亲近，但两人是如何认识的不得而知。与克拉克中尉是老朋友，或者说是战友，经常在一个战壕里并肩作战。据小道消息透露，参加过格斗大会，近战时所发挥的战斗力超越常人数倍。",
+					""
+				]
+			},
+			{
+				"id": 501,
+				"charCount": 284,
+				"strList": [
+					"【拉尔夫·琼斯】",
+					"相比六名队友，拥有最快的近身作战速度。持弹量虽少，但光靠赤手空拳就能重创对手。",
+					"【性别】男",
+					"【国籍】美国",
+					"【职业】佣兵部队上校",
+					"【年龄】39岁",
+					"【身高】188cm",
+					"【体重】110kg",
+					"【血型】A型",
+					""
+				]
+			},
+			{
+				"id": 502,
+				"charCount": 332,
+				"strList": [
+					"【拉尔夫·琼斯】",
+					"相比六名队友，拥有最快的近身作战速度。持弹量虽少，但光靠赤手空拳就能重创对手。",
+					"【业余爱好】收藏军刀",
+					"【喜欢的食物】口香糖",
+					"【喜好】战斗军刀的组装",
+					"【讨厌的东西】蛇",
+					"【重要的东西】总统授予的奖章",
+					"【绝技】垒球",
+					"【口头禅】好了，完结你吧！(TODO)",
+					""
+				]
+			},
+			{
+				"id": 600,
+				"charCount": 838,
+				"strList": [
+					"【克拉克·斯蒂尔】",
+					"七人中唯一的摔角专家，冲进敌阵将他们逐个丢飞的战斗大师。",
+					"【小传】",
+					"在多年前就已加入佣兵部队，关于他的过去一切不明。与拉尔夫是并肩作战的老战友，经常共赴战场。与他相关的传说也是数不胜数，但都很离奇。相比那些传说，他与拉尔夫一起参加的格斗大会里所斩获的成绩更能说明他的真正战斗力。战场中的战斗风格与拉尔夫又若干不同，但擅长的还是以格斗技巧为中心的近身战。不幸与其交战的敌兵在眨眼之间就会被丢向空中，毫无还手之力地摔在地上。",
+					""
+				]
+			},
+			{
+				"id": 601,
+				"charCount": 280,
+				"strList": [
+					"【克拉克·斯蒂尔】",
+					"七人中唯一的摔角专家，冲进敌阵将他们逐个丢飞的战斗大师。",
+					"【性别】男",
+					"【国籍】美国",
+					"【职级】佣兵部队中尉",
+					"【年龄】34",
+					"【身高】187cm",
+					"【体重】105kg",
+					"【血型】A型",
+					""
+				]
+			},
+			{
+				"id": 602,
+				"charCount": 300,
+				"strList": [
+					"【克拉克·斯蒂尔】",
+					"七人中唯一的摔角专家，冲进敌阵将他们逐个丢飞的战斗大师。",
+					"【业余爱好】枪械收藏",
+					"【喜欢的食物】麦片粥",
+					"【喜好】阅读枪械改装指南",
+					"【讨厌的东西】蛞蝓",
+					"【重要的东西】太阳镜",
+					"【绝技】摔角",
+					"【口头禅】嘿，来啊！",
+					""
+				]
+			},
+			{
+				"id": 605,
+				"charCount": 1282,
+				"strList": [
+					"【蕾欧娜·海德伦】",
+					"在近身战中使用华丽的招式将对方随意玩弄。不仅仅是近身作战，枪战的本领也丝毫不逊色于其他队员。",
+					"【小传】",
+					"年幼时的一次悲惨的意外中失去了父母，之后成为了拉尔夫上校和克拉克中尉的长官的养女，被培养成了职业军人。沉默寡言，不会表露自己的感情。虽然不擅人际交往，但却是位优秀的军人，深得部下的信任。战场中冷静沉着地完成任务，使用义父传下的手刃华丽地切割敌人。曾与菲奥又过来往，并与克拉克中尉三人一起做过任务，同生共死。一年里仅仅几天的休假日内，大部分时间都会去工厂参观，培养自己的能力。为了任务而参加的格斗大会里，经常可以窥见到她平时难得一见的充满野性的一面，但详情一切未知……",
+					""
+				]
+			},
+			{
+				"id": 606,
+				"charCount": 346,
+				"strList": [
+					"【蕾欧娜·海德伦】",
+					"在近身战中使用华丽的招式将对方随意玩弄。不仅仅是近身作战，枪战的本领也丝毫不逊色于其他队员。",
+					"【性别】女",
+					"【出身地】不明",
+					"【职级】不明",
+					"【年龄】18岁",
+					"【身高】177cm",
+					"【体重】66kg",
+					"【三围】(84, 60, 87)",
+					"【血型】B型",
+					""
+				]
+			},
+			{
+				"id": 607,
+				"charCount": 360,
+				"strList": [
+					"【蕾欧娜·海德伦】",
+					"在近身战中使用华丽的招式将对方随意玩弄。不仅仅是近身作战，枪战的本领也丝毫不逊色于其他队员。",
+					"【业余爱好】参观工厂",
+					"【喜欢的食物】蔬菜",
+					"【喜好】无",
+					"【讨厌的东西】血",
+					"【重要的东西】无",
+					"【绝技】无",
+					"【口头禅】任务，开始执行。",
+					""
+				]
+			},
+			{
+				"id": 700,
+				"charCount": 90,
+				"strList": [
+					"BEGINNER",
+					"简单游戏难度。",
+					"最适合短时间轻松地进行游戏！",
+					""
+				]
+			},
+			{
+				"id": 701,
+				"charCount": 76,
+				"strList": [
+					"NORMAL",
+					"标准游戏难度。",
+					"稳步推进，目标通关！",
+					""
+				]
+			},
+			{
+				"id": 702,
+				"charCount": 88,
+				"strList": [
+					"HARD",
+					"专家游戏难度。",
+					"本系列的爱好者和擅长动作游戏的玩家，一定不要错过！",
+					""
+				]
+			},
+			{
+				"id": 701,
+				"charCount": 76,
+				"strList": [
+					"NORMAL",
+					"标准游戏难度。",
+					"稳步推进，目标通关！",
+					""
+				]
+			},
+			{
+				"id": 704,
+				"charCount": 84,
+				"strList": [
+					"SINGLE",
+					"单人模式。单身赴任，消灭Morden兵！ ",
+					""
+				]
+			},
+			{
+				"id": 705,
+				"charCount": 82,
+				"strList": [
+					"NETWORK",
+					"双人模式。通力合作攻战坚不可摧的要塞！",
+					""
+				]
+			},
+			{
+				"id": 706,
+				"charCount": 88,
+				"strList": [
+					"JOIN",
+					"加入一场无线Ad Hoc(临时网络)游戏。",
+					"请选择难度。",
+					""
+				]
+			},
+			{
+				"id": 707,
+				"charCount": 78,
+				"strList": [
+					"HOST",
+					"组织一场无线Ad Hoc(临时网络)游戏。",
+					"请选择难度。",
+					""
+				]
+			},
+			{
+				"id": 708,
+				"charCount": 12,
+				"strList": [
+					"人物简介",
+					""
+				]
+			},
+			{
+				"id": 709,
+				"charCount": 10,
+				"strList": [
+					"关闭",
+					""
+				]
+			},
+			{
+				"id": 800,
+				"charCount": 18,
+				"strList": [
+					"最高得分",
+					""
+				]
+			},
+			{
+				"id": 801,
+				"charCount": 16,
+				"strList": [
+					"最短用时",
+					""
+				]
+			},
+			{
+				"id": 802,
+				"charCount": 30,
+				"strList": [
+					"确认最高得分。",
+					""
+				]
+			},
+			{
+				"id": 803,
+				"charCount": 28,
+				"strList": [
+					"确认最短用时。",
+					""
+				]
+			},
+			{
+				"id": 804,
+				"charCount": 12,
+				"strList": [
+					"继续",
+					""
+				]
+			},
+			{
+				"id": 805,
+				"charCount": 10,
+				"strList": [
+					"军阶",
+					""
+				]
+			},
+			{
+				"id": 806,
+				"charCount": 18,
+				"strList": [
+					"战俘解救数",
+					""
+				]
+			},
+			{
+				"id": 807,
+				"charCount": 16,
+				"strList": [
+					"房主玩家",
+					""
+				]
+			},
+			{
+				"id": 808,
+				"charCount": 16,
+				"strList": [
+					"宾客玩家",
+					""
+				]
+			},
+			{
+				"id": 809,
+				"charCount": 18,
+				"strList": [
+					"连接中……",
+					""
+				]
+			},
+			{
+				"id": 810,
+				"charCount": 22,
+				"strList": [
+					"断连中……",
+					""
+				]
+			},
+			{
+				"id": 900,
+				"charCount": 12,
+				"strList": [
+					"任务",
+					""
+				]
+			},
+			{
+				"id": 901,
+				"charCount": 20,
+				"strList": [
+					"解救率",
+					""
+				]
+			},
+			{
+				"id": 993,
+				"charCount": 16,
+				"strList": [
+					"存档与读档",
+					""
+				]
+			},
+			{
+				"id": 994,
+				"charCount": 6,
+				"strList": [
+					"开启",
+					""
+				]
+			},
+			{
+				"id": 995,
+				"charCount": 8,
+				"strList": [
+					"关闭",
+					""
+				]
+			},
+			{
+				"id": 996,
+				"charCount": 8,
+				"strList": [
+					"存档",
+					""
+				]
+			},
+			{
+				"id": 997,
+				"charCount": 8,
+				"strList": [
+					"读档",
+					""
+				]
+			},
+			{
+				"id": 998,
+				"charCount": 14,
+				"strList": [
+					"自动存档",
+					""
+				]
+			},
+			{
+				"id": 999,
+				"charCount": 8,
+				"strList": [
+					"退出",
+					""
+				]
+			},
+			{
+				"id": 1000,
+				"charCount": 20,
+				"strList": [
+					"控制设置",
+					""
+				]
+			},
+			{
+				"id": 1001,
+				"charCount": 16,
+				"strList": [
+					"音乐设置",
+					""
+				]
+			},
+			{
+				"id": 1002,
+				"charCount": 16,
+				"strList": [
+					"音效设置",
+					""
+				]
+			},
+			{
+				"id": 1003,
+				"charCount": 20,
+				"strList": [
+					"默认设置",
+					""
+				]
+			},
+			{
+				"id": 1004,
+				"charCount": 24,
+				"strList": [
+					"返回主菜单",
+					""
+				]
+			},
+			{
+				"id": 1005,
+				"charCount": 16,
+				"strList": [
+					"主武器攻击",
+					""
+				]
+			},
+			{
+				"id": 1006,
+				"charCount": 18,
+				"strList": [
+					"副武器攻击",
+					""
+				]
+			},
+			{
+				"id": 1007,
+				"charCount": 8,
+				"strList": [
+					"跳",
+					""
+				]
+			},
+			{
+				"id": 1008,
+				"charCount": 18,
+				"strList": [
+					"切换武器",
+					""
+				]
+			},
+			{
+				"id": 1009,
+				"charCount": 28,
+				"strList": [
+					"特殊 / 合金弹头攻击",
+					""
+				]
+			},
+			{
+				"id": 1010,
+				"charCount": 24,
+				"strList": [
+					"特殊近战",
+					""
+				]
+			},
+			{
+				"id": 1011,
+				"charCount": 16,
+				"strList": [
+					"丢出武器",
+					""
+				]
+			},
+			{
+				"id": 1012,
+				"charCount": 18,
+				"strList": [
+					"特殊动作",
+					""
+				]
+			},
+			{
+				"id": 1013,
+				"charCount": 14,
+				"strList": [
+					"音乐音量",
+					""
+				]
+			},
+			{
+				"id": 1014,
+				"charCount": 14,
+				"strList": [
+					"音效音量",
+					""
+				]
+			},
+			{
+				"id": 1015,
+				"charCount": 8,
+				"strList": [
+					"是",
+					""
+				]
+			},
+			{
+				"id": 1016,
+				"charCount": 6,
+				"strList": [
+					"否",
+					""
+				]
+			},
+			{
+				"id": 1017,
+				"charCount": 64,
+				"strList": [
+					"清除存档数据，继续？",
+					"[9101]",
+					"[1018]",
+					"[1020]",
+					"  确定",
+					"  取消",
+					""
+				]
+			},
+			{
+				"id": 1018,
+				"charCount": 14,
+				"strList": [
+					"清除中……",
+					""
+				]
+			},
+			{
+				"id": 1019,
+				"charCount": 22,
+				"strList": [
+					"存档数据已清除。",
+					""
+				]
+			},
+			{
+				"id": 1020,
+				"charCount": 12,
+				"strList": [
+					"[9997]",
+					" ",
+					" ",
+					""
+				]
+			},
+			{
+				"id": 1100,
+				"charCount": 88,
+				"strList": [
+					"存档数据无法加载。",
+					"请关闭电源并重新插入记忆棒。",
+					""
+				]
+			},
+			{
+				"id": 1101,
+				"charCount": 50,
+				"strList": [
+					"存档数据损坏。",
+					"数据将被删除。",
+					""
+				]
+			},
+			{
+				"id": 1102,
+				"charCount": 90,
+				"strList": [
+					"无法写入存档数据。",
+					"请关闭电源并重新插入记忆棒。",
+					""
+				]
+			},
+			{
+				"id": 1200,
+				"charCount": 16,
+				"strList": [
+					"继续游戏",
+					""
+				]
+			},
+			{
+				"id": 1201,
+				"charCount": 14,
+				"strList": [
+					"退出游戏",
+					""
+				]
+			},
+			{
+				"id": 1202,
+				"charCount": 18,
+				"strList": [
+					"继续任务",
+					""
+				]
+			},
+			{
+				"id": 1203,
+				"charCount": 20,
+				"strList": [
+					"重启任务",
+					""
+				]
+			},
+			{
+				"id": 1204,
+				"charCount": 16,
+				"strList": [
+					"退出任务",
+					""
+				]
+			},
+			{
+				"id": 1205,
+				"charCount": 28,
+				"strList": [
+					"返回战斗学院",
+					""
+				]
+			},
+			{
+				"id": 1300,
+				"charCount": 8,
+				"strList": [
+					"特级上将 ",
+					""
+				]
+			},
+			{
+				"id": 1301,
+				"charCount": 8,
+				"strList": [
+					"五星上将 ",
+					""
+				]
+			},
+			{
+				"id": 1302,
+				"charCount": 8,
+				"strList": [
+					"上将 ",
+					""
+				]
+			},
+			{
+				"id": 1303,
+				"charCount": 8,
+				"strList": [
+					"中将 ",
+					""
+				]
+			},
+			{
+				"id": 1304,
+				"charCount": 8,
+				"strList": [
+					"少将 ",
+					""
+				]
+			},
+			{
+				"id": 1305,
+				"charCount": 8,
+				"strList": [
+					"准将 ",
+					""
+				]
+			},
+			{
+				"id": 1306,
+				"charCount": 10,
+				"strList": [
+					"上校 ",
+					""
+				]
+			},
+			{
+				"id": 1307,
+				"charCount": 10,
+				"strList": [
+					"中校 ",
+					""
+				]
+			},
+			{
+				"id": 1308,
+				"charCount": 8,
+				"strList": [
+					"少校 ",
+					""
+				]
+			},
+			{
+				"id": 1309,
+				"charCount": 8,
+				"strList": [
+					"上尉 ",
+					""
+				]
+			},
+			{
+				"id": 1310,
+				"charCount": 8,
+				"strList": [
+					"中尉 ",
+					""
+				]
+			},
+			{
+				"id": 1311,
+				"charCount": 8,
+				"strList": [
+					"少尉 ",
+					""
+				]
+			},
+			{
+				"id": 1312,
+				"charCount": 8,
+				"strList": [
+					"首席准尉 ",
+					""
+				]
+			},
+			{
+				"id": 1313,
+				"charCount": 8,
+				"strList": [
+					"一级准尉 ",
+					""
+				]
+			},
+			{
+				"id": 1314,
+				"charCount": 8,
+				"strList": [
+					"一级军士长 ",
+					""
+				]
+			},
+			{
+				"id": 1315,
+				"charCount": 8,
+				"strList": [
+					"三级军士长 ",
+					""
+				]
+			},
+			{
+				"id": 1316,
+				"charCount": 8,
+				"strList": [
+					"排军士长 ",
+					""
+				]
+			},
+			{
+				"id": 1317,
+				"charCount": 8,
+				"strList": [
+					"上士 ",
+					""
+				]
+			},
+			{
+				"id": 1318,
+				"charCount": 8,
+				"strList": [
+					"中士 ",
+					""
+				]
+			},
+			{
+				"id": 1319,
+				"charCount": 10,
+				"strList": [
+					"下士 ",
+					""
+				]
+			},
+			{
+				"id": 1320,
+				"charCount": 8,
+				"strList": [
+					"一等兵 ",
+					""
+				]
+			},
+			{
+				"id": 1321,
+				"charCount": 8,
+				"strList": [
+					"二等兵 ",
+					""
+				]
+			},
+			{
+				"id": 1322,
+				"charCount": 12,
+				"strList": [
+					"新兵 ",
+					" ",
+					""
+				]
+			},
+			{
+				"id": 1323,
+				"charCount": 24,
+				"strList": [
+					"前往训练场",
+					""
+				]
+			},
+			{
+				"id": 1324,
+				"charCount": 30,
+				"strList": [
+					"与教官对话",
+					""
+				]
+			},
+			{
+				"id": 1325,
+				"charCount": 22,
+				"strList": [
+					"目标清除",
+					""
+				]
+			},
+			{
+				"id": 1326,
+				"charCount": 20,
+				"strList": [
+					"物资收集",
+					""
+				]
+			},
+			{
+				"id": 1327,
+				"charCount": 14,
+				"strList": [
+					"战俘救援",
+					""
+				]
+			},
+			{
+				"id": 1328,
+				"charCount": 16,
+				"strList": [
+					"据点突入",
+					""
+				]
+			},
+			{
+				"id": 1329,
+				"charCount": 20,
+				"strList": [
+					"专项特训",
+					""
+				]
+			},
+			{
+				"id": 1330,
+				"charCount": 12,
+				"strList": [
+					"生存模式",
+					""
+				]
+			},
+			{
+				"id": 1331,
+				"charCount": 10,
+				"strList": [
+					"评级",
+					""
+				]
+			},
+			{
+				"id": 1332,
+				"charCount": 18,
+				"strList": [
+					"最高得分",
+					""
+				]
+			},
+			{
+				"id": 1333,
+				"charCount": 16,
+				"strList": [
+					"关于什么？",
+					""
+				]
+			},
+			{
+				"id": 1334,
+				"charCount": 36,
+				"strList": [
+					"想聊什么话题？",
+					""
+				]
+			},
+			{
+				"id": 1335,
+				"charCount": 14,
+				"strList": [
+					"你的年龄",
+					""
+				]
+			},
+			{
+				"id": 1336,
+				"charCount": 26,
+				"strList": [
+					"你最爱的花",
+					""
+				]
+			},
+			{
+				"id": 1337,
+				"charCount": 14,
+				"strList": [
+					"这个房间",
+					""
+				]
+			},
+			{
+				"id": 1338,
+				"charCount": 20,
+				"strList": [
+					"你的手机",
+					""
+				]
+			},
+			{
+				"id": 1339,
+				"charCount": 18,
+				"strList": [
+					"你的家乡",
+					""
+				]
+			},
+			{
+				"id": 1340,
+				"charCount": 10,
+				"strList": [
+					"音乐",
+					""
+				]
+			},
+			{
+				"id": 1341,
+				"charCount": 18,
+				"strList": [
+					"今天的工作",
+					""
+				]
+			},
+			{
+				"id": 1342,
+				"charCount": 18,
+				"strList": [
+					"你的休息日",
+					""
+				]
+			},
+			{
+				"id": 1343,
+				"charCount": 20,
+				"strList": [
+					"你的对象",
+					""
+				]
+			},
+			{
+				"id": 1344,
+				"charCount": 22,
+				"strList": [
+					"你的三围",
+					""
+				]
+			},
+			{
+				"id": 1345,
+				"charCount": 28,
+				"strList": [
+					"你的身高体重",
+					""
+				]
+			},
+			{
+				"id": 1346,
+				"charCount": 20,
+				"strList": [
+					"你的兴趣",
+					""
+				]
+			},
+			{
+				"id": 1347,
+				"charCount": 16,
+				"strList": [
+					"饰品",
+					""
+				]
+			},
+			{
+				"id": 1348,
+				"charCount": 14,
+				"strList": [
+					"家务",
+					""
+				]
+			},
+			{
+				"id": 1349,
+				"charCount": 14,
+				"strList": [
+					"昵称",
+					""
+				]
+			},
+			{
+				"id": 1350,
+				"charCount": 24,
+				"strList": [
+					"你的感受",
+					""
+				]
+			},
+			{
+				"id": 1351,
+				"charCount": 28,
+				"strList": [
+					"你的喜好型",
+					""
+				]
+			},
+			{
+				"id": 1353,
+				"charCount": 4,
+				"strList": [
+					"0",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1354,
+				"charCount": 4,
+				"strList": [
+					"1",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1355,
+				"charCount": 4,
+				"strList": [
+					"2",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1356,
+				"charCount": 4,
+				"strList": [
+					"3",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1357,
+				"charCount": 4,
+				"strList": [
+					"4",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1358,
+				"charCount": 4,
+				"strList": [
+					"5",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1359,
+				"charCount": 4,
+				"strList": [
+					"6",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1360,
+				"charCount": 4,
+				"strList": [
+					"7",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1361,
+				"charCount": 4,
+				"strList": [
+					"8",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1362,
+				"charCount": 4,
+				"strList": [
+					"9",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1363,
+				"charCount": 4,
+				"strList": [
+					"10",
+					""
+				]
+			},
+			{
+				"id": 1364,
+				"charCount": 4,
+				"strList": [
+					"A",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1365,
+				"charCount": 4,
+				"strList": [
+					"a",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1366,
+				"charCount": 4,
+				"strList": [
+					"B",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1367,
+				"charCount": 4,
+				"strList": [
+					"C",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1368,
+				"charCount": 4,
+				"strList": [
+					"D",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1369,
+				"charCount": 4,
+				"strList": [
+					"X",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1370,
+				"charCount": 4,
+				"strList": [
+					"Y",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1371,
+				"charCount": 4,
+				"strList": [
+					"L",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1372,
+				"charCount": 4,
+				"strList": [
+					"R",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1373,
+				"charCount": 18,
+				"strList": [
+					"控制设置",
+					""
+				]
+			},
+			{
+				"id": 1374,
+				"charCount": 14,
+				"strList": [
+					"存档与读档",
+					""
+				]
+			},
+			{
+				"id": 1375,
+				"charCount": 18,
+				"strList": [
+					"显示设置",
+					""
+				]
+			},
+			{
+				"id": 1376,
+				"charCount": 12,
+				"strList": [
+					"主武器连射",
+					""
+				]
+			},
+			{
+				"id": 1377,
+				"charCount": 14,
+				"strList": [
+					"音乐设置",
+					""
+				]
+			},
+			{
+				"id": 1378,
+				"charCount": 14,
+				"strList": [
+					"音效设置",
+					""
+				]
+			},
+			{
+				"id": 1379,
+				"charCount": 18,
+				"strList": [
+					"默认设置",
+					""
+				]
+			},
+			{
+				"id": 1380,
+				"charCount": 4,
+				"strList": [
+					"开启",
+					""
+				]
+			},
+			{
+				"id": 1381,
+				"charCount": 6,
+				"strList": [
+					"关闭",
+					""
+				]
+			},
+			{
+				"id": 1382,
+				"charCount": 8,
+				"strList": [
+					"锐利像素",
+					""
+				]
+			},
+			{
+				"id": 1383,
+				"charCount": 6,
+				"strList": [
+					"4:3",
+					""
+				]
+			},
+			{
+				"id": 1384,
+				"charCount": 6,
+				"strList": [
+					"宽屏",
+					""
+				]
+			},
+			{
+				"id": 1385,
+				"charCount": 14,
+				"strList": [
+					"主武器攻击",
+					""
+				]
+			},
+			{
+				"id": 1386,
+				"charCount": 16,
+				"strList": [
+					"副武器攻击",
+					""
+				]
+			},
+			{
+				"id": 1387,
+				"charCount": 6,
+				"strList": [
+					"跳",
+					""
+				]
+			},
+			{
+				"id": 1388,
+				"charCount": 16,
+				"strList": [
+					"切换武器",
+					""
+				]
+			},
+			{
+				"id": 1389,
+				"charCount": 24,
+				"strList": [
+					"特殊 / 合金弹头攻击",
+					""
+				]
+			},
+			{
+				"id": 1390,
+				"charCount": 22,
+				"strList": [
+					"特殊近战",
+					""
+				]
+			},
+			{
+				"id": 1391,
+				"charCount": 14,
+				"strList": [
+					"丢出武器",
+					""
+				]
+			},
+			{
+				"id": 1392,
+				"charCount": 16,
+				"strList": [
+					"特殊动作",
+					""
+				]
+			},
+			{
+				"id": 1393,
+				"charCount": 18,
+				"strList": [
+					"默认设置",
+					""
+				]
+			},
+			{
+				"id": 1394,
+				"charCount": 22,
+				"strList": [
+					"特殊 + 主武器",
+					""
+				]
+			},
+			{
+				"id": 1395,
+				"charCount": 24,
+				"strList": [
+					"特殊 + 副武器",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1396,
+				"charCount": 24,
+				"strList": [
+					"特殊 + 主武器 + ↑",
+					""
+				]
+			},
+			{
+				"id": 1397,
+				"charCount": 6,
+				"strList": [
+					"存档",
+					""
+				]
+			},
+			{
+				"id": 1398,
+				"charCount": 6,
+				"strList": [
+					"读档",
+					""
+				]
+			},
+			{
+				"id": 1399,
+				"charCount": 12,
+				"strList": [
+					"自动存档",
+					""
+				]
+			},
+			{
+				"id": 1400,
+				"charCount": 10,
+				"strList": [
+					"Beginner",
+					""
+				]
+			},
+			{
+				"id": 1401,
+				"charCount": 8,
+				"strList": [
+					"Normal",
+					""
+				]
+			},
+			{
+				"id": 1402,
+				"charCount": 6,
+				"strList": [
+					"Hard",
+					""
+				]
+			},
+			{
+				"id": 1403,
+				"charCount": 70,
+				"strList": [
+					"保存中……",
+					"请不要关闭电源，或拔出记忆棒。",
+					""
+				]
+			},
+			{
+				"id": 1404,
+				"charCount": 86,
+				"strList": [
+					"BEGINNER",
+					"简单游戏难度。",
+					"最适合短时间轻松地进行游戏！",
+					""
+				]
+			},
+			{
+				"id": 1405,
+				"charCount": 90,
+				"strList": [
+					"NORMAL",
+					"标准游戏难度。",
+					"稳步推进，目标通关！",
+					""
+				]
+			},
+			{
+				"id": 1406,
+				"charCount": 84,
+				"strList": [
+					"HARD",
+					"专家游戏难度。",
+					"本系列的爱好者和擅长动作游戏的玩家，一定不要错过！",
+					""
+				]
+			},
+			{
+				"id": 1407,
+				"charCount": 810,
+				"strList": [
+					"MARCO ROSSI",
+					"A balanced soldier who is the",
+					"best at handling the heavy",
+					"machine gun.",
+					" ",
+					"FULL NAME",
+					"Marchrius Dennis Rossi",
+					" ",
+					"BACKGROUND",
+					"Italian-American. Marco",
+					"joined the military's special",
+					"vocational academy following",
+					"technical high school. Upon",
+					"graduation, he became a",
+					"member of the Peregrine",
+					"Falcon(PF) Special Fores",
+					"Squad. Generally",
+					"good-natured, he becomes",
+					"enraged at the mere mention",
+					"of General Morden, who has",
+					"been responsible for the loss",
+					"of many friends and",
+					"comrades. He is a skilled",
+					"member of the special forces",
+					"squad and an elete hacker,",
+					"who once created a virus for",
+					"fun and accidentally infected",
+					"the military mainframe. The",
+					"virus broke through the",
+					"security mechanisms and",
+					"penetrated every level of",
+					"the mainframe, nearly causing",
+					"the launch of nuclear",
+					"missiles. This is a secret he'll",
+					"take to his grave.",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1408,
+				"charCount": 4,
+				"strList": [
+					"  ",
+					""
+				]
+			},
+			{
+				"id": 1409,
+				"charCount": 4,
+				"strList": [
+					"  ",
+					""
+				]
+			},
+			{
+				"id": 1410,
+				"charCount": 4,
+				"strList": [
+					"  ",
+					""
+				]
+			},
+			{
+				"id": 1411,
+				"charCount": 4,
+				"strList": [
+					"  ",
+					""
+				]
+			},
+			{
+				"id": 1412,
+				"charCount": 4,
+				"strList": [
+					"  ",
+					""
+				]
+			},
+			{
+				"id": 1413,
+				"charCount": 4,
+				"strList": [
+					"  ",
+					""
+				]
+			},
+			{
+				"id": 1414,
+				"charCount": 80,
+				"strList": [
+					"Welcome to Combat School.",
+					"This is where you'll be doing",
+					"your combat training.",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1415,
+				"charCount": 98,
+				"strList": [
+					"I am your drill instructor,",
+					"Cynthia. I'll take care of you",
+					"until you can be all that you",
+					"can be.",
+					""
+				]
+			},
+			{
+				"id": 1416,
+				"charCount": 32,
+				"strList": [
+					"All right, let's get started.",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1417,
+				"charCount": 50,
+				"strList": [
+					"To Trainning Grounds",
+					" ",
+					"Speak to Drill Instructor",
+					""
+				]
+			},
+			{
+				"id": 1418,
+				"charCount": 54,
+				"strList": [
+					"Oh, I figured you'd be moaning",
+					"from the pain, but...",
+					""
+				]
+			},
+			{
+				"id": 1419,
+				"charCount": 76,
+				"strList": [
+					"You're showing a lot of",
+					"potential.",
+					"Glad to see the training's",
+					"paying off.",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1420,
+				"charCount": 30,
+				"strList": [
+					"Give it your all today, huh?",
+					""
+				]
+			},
+			{
+				"id": 1421,
+				"charCount": 20,
+				"strList": [
+					"目标清除",
+					""
+				]
+			},
+			{
+				"id": 1422,
+				"charCount": 18,
+				"strList": [
+					"物资收集",
+					""
+				]
+			},
+			{
+				"id": 1423,
+				"charCount": 12,
+				"strList": [
+					"战俘救援",
+					""
+				]
+			},
+			{
+				"id": 1424,
+				"charCount": 14,
+				"strList": [
+					"据点突入",
+					""
+				]
+			},
+			{
+				"id": 1425,
+				"charCount": 18,
+				"strList": [
+					"专项训练",
+					""
+				]
+			},
+			{
+				"id": 1426,
+				"charCount": 16,
+				"strList": [
+					"生存模式",
+					""
+				]
+			},
+			{
+				"id": 1427,
+				"charCount": 14,
+				"strList": [
+					"新兵 Opt",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1428,
+				"charCount": 8,
+				"strList": [
+					"评级",
+					""
+				]
+			},
+			{
+				"id": 1429,
+				"charCount": 16,
+				"strList": [
+					"最高得分",
+					""
+				]
+			},
+			{
+				"id": 1430,
+				"charCount": 14,
+				"strList": [
+					"最短用时",
+					""
+				]
+			},
+			{
+				"id": 1431,
+				"charCount": 10,
+				"strList": [
+					"????????",
+					""
+				]
+			},
+			{
+				"id": 1432,
+				"charCount": 8,
+				"strList": [
+					"Medea",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1433,
+				"charCount": 10,
+				"strList": [
+					"Pleiades",
+					""
+				]
+			},
+			{
+				"id": 1434,
+				"charCount": 10,
+				"strList": [
+					"Aglauros",
+					""
+				]
+			},
+			{
+				"id": 1435,
+				"charCount": 8,
+				"strList": [
+					"Erebus",
+					""
+				]
+			},
+			{
+				"id": 1436,
+				"charCount": 8,
+				"strList": [
+					"Zahir",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1437,
+				"charCount": 6,
+				"strList": [
+					"Soga",
+					""
+				]
+			},
+			{
+				"id": 1438,
+				"charCount": 4,
+				"strList": [
+					"Li",
+					""
+				]
+			},
+			{
+				"id": 1439,
+				"charCount": 10,
+				"strList": [
+					"Nakasone",
+					""
+				]
+			},
+			{
+				"id": 1440,
+				"charCount": 12,
+				"strList": [
+					"Cleveland",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1441,
+				"charCount": 10,
+				"strList": [
+					"Yoneuchi",
+					""
+				]
+			},
+			{
+				"id": 1442,
+				"charCount": 10,
+				"strList": [
+					"Almagro",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1443,
+				"charCount": 8,
+				"strList": [
+					"Morse",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1444,
+				"charCount": 6,
+				"strList": [
+					"Wang",
+					""
+				]
+			},
+			{
+				"id": 1445,
+				"charCount": 12,
+				"strList": [
+					"Archangel",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1446,
+				"charCount": 8,
+				"strList": [
+					"Nestor",
+					""
+				]
+			},
+			{
+				"id": 1447,
+				"charCount": 10,
+				"strList": [
+					"Calchas",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1448,
+				"charCount": 10,
+				"strList": [
+					"Oyabeen",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1449,
+				"charCount": 8,
+				"strList": [
+					"Dryad",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1450,
+				"charCount": 8,
+				"strList": [
+					"Remus",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1451,
+				"charCount": 8,
+				"strList": [
+					"Yamada",
+					""
+				]
+			},
+			{
+				"id": 1452,
+				"charCount": 8,
+				"strList": [
+					"Takada",
+					""
+				]
+			},
+			{
+				"id": 1453,
+				"charCount": 12,
+				"strList": [
+					"Jawlensky",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1454,
+				"charCount": 10,
+				"strList": [
+					"Antigone",
+					""
+				]
+			},
+			{
+				"id": 1455,
+				"charCount": 8,
+				"strList": [
+					"Ondine",
+					""
+				]
+			},
+			{
+				"id": 1456,
+				"charCount": 6,
+				"strList": [
+					"Yang",
+					""
+				]
+			},
+			{
+				"id": 1457,
+				"charCount": 10,
+				"strList": [
+					"Nack-Key",
+					""
+				]
+			},
+			{
+				"id": 1458,
+				"charCount": 8,
+				"strList": [
+					"Elman",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1459,
+				"charCount": 10,
+				"strList": [
+					"Daphnis",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1460,
+				"charCount": 10,
+				"strList": [
+					"Karimen",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1461,
+				"charCount": 6,
+				"strList": [
+					"Min",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1462,
+				"charCount": 12,
+				"strList": [
+					"Hippolyta",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1463,
+				"charCount": 10,
+				"strList": [
+					"Fujimatu",
+					""
+				]
+			},
+			{
+				"id": 1464,
+				"charCount": 12,
+				"strList": [
+					"Metastasio",
+					""
+				]
+			},
+			{
+				"id": 1465,
+				"charCount": 10,
+				"strList": [
+					"Pentheus",
+					""
+				]
+			},
+			{
+				"id": 1466,
+				"charCount": 10,
+				"strList": [
+					"Shestov",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1467,
+				"charCount": 6,
+				"strList": [
+					"Ward",
+					""
+				]
+			},
+			{
+				"id": 1468,
+				"charCount": 6,
+				"strList": [
+					"Thor",
+					""
+				]
+			},
+			{
+				"id": 1469,
+				"charCount": 6,
+				"strList": [
+					"Shih",
+					""
+				]
+			},
+			{
+				"id": 1470,
+				"charCount": 10,
+				"strList": [
+					"Putiatin",
+					""
+				]
+			},
+			{
+				"id": 1471,
+				"charCount": 10,
+				"strList": [
+					"Nishida",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1472,
+				"charCount": 12,
+				"strList": [
+					"Galbraith",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1473,
+				"charCount": 12,
+				"strList": [
+					"Autolycus",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1474,
+				"charCount": 12,
+				"strList": [
+					"Goodelian",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1475,
+				"charCount": 12,
+				"strList": [
+					"Hyakutaro",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1476,
+				"charCount": 4,
+				"strList": [
+					"In",
+					""
+				]
+			},
+			{
+				"id": 1477,
+				"charCount": 10,
+				"strList": [
+					"Minotaur",
+					""
+				]
+			},
+			{
+				"id": 1478,
+				"charCount": 14,
+				"strList": [
+					"Penthesilea",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1479,
+				"charCount": 8,
+				"strList": [
+					"Rumi.A",
+					""
+				]
+			},
+			{
+				"id": 1480,
+				"charCount": 12,
+				"strList": [
+					"Hyachinth",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1481,
+				"charCount": 8,
+				"strList": [
+					"Curry",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1482,
+				"charCount": 8,
+				"strList": [
+					"Morga",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1483,
+				"charCount": 10,
+				"strList": [
+					"Sarpedon",
+					""
+				]
+			},
+			{
+				"id": 1484,
+				"charCount": 10,
+				"strList": [
+					"Tsukino",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1485,
+				"charCount": 10,
+				"strList": [
+					"Woeikov",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1486,
+				"charCount": 12,
+				"strList": [
+					"Theophane",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1487,
+				"charCount": 6,
+				"strList": [
+					"Noma",
+					""
+				]
+			},
+			{
+				"id": 1488,
+				"charCount": 8,
+				"strList": [
+					"Hours",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1489,
+				"charCount": 12,
+				"strList": [
+					"Campanella",
+					""
+				]
+			},
+			{
+				"id": 1490,
+				"charCount": 8,
+				"strList": [
+					"Hades",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1491,
+				"charCount": 14,
+				"strList": [
+					"Bergengruen",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1492,
+				"charCount": 8,
+				"strList": [
+					"Haupt",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1493,
+				"charCount": 8,
+				"strList": [
+					"Ogawa",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1494,
+				"charCount": 8,
+				"strList": [
+					"Sanger",
+					""
+				]
+			},
+			{
+				"id": 1495,
+				"charCount": 8,
+				"strList": [
+					"Tyuuji",
+					""
+				]
+			},
+			{
+				"id": 1496,
+				"charCount": 10,
+				"strList": [
+					"Winckler",
+					""
+				]
+			},
+			{
+				"id": 1497,
+				"charCount": 8,
+				"strList": [
+					"Priam",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1498,
+				"charCount": 10,
+				"strList": [
+					"Schacft",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1499,
+				"charCount": 10,
+				"strList": [
+					"Maubont",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1500,
+				"charCount": 8,
+				"strList": [
+					"Ochoa",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1501,
+				"charCount": 12,
+				"strList": [
+					"Hesperides",
+					""
+				]
+			},
+			{
+				"id": 1502,
+				"charCount": 10,
+				"strList": [
+					"Coquelin",
+					""
+				]
+			},
+			{
+				"id": 1503,
+				"charCount": 8,
+				"strList": [
+					"Phoebe",
+					""
+				]
+			},
+			{
+				"id": 1504,
+				"charCount": 6,
+				"strList": [
+					"Kui",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1505,
+				"charCount": 10,
+				"strList": [
+					"Madoka.A",
+					""
+				]
+			},
+			{
+				"id": 1506,
+				"charCount": 8,
+				"strList": [
+					"Scylla",
+					""
+				]
+			},
+			{
+				"id": 1507,
+				"charCount": 10,
+				"strList": [
+					"Everett",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1508,
+				"charCount": 12,
+				"strList": [
+					"Strowberry",
+					""
+				]
+			},
+			{
+				"id": 1509,
+				"charCount": 8,
+				"strList": [
+					"Valcan",
+					""
+				]
+			},
+			{
+				"id": 1510,
+				"charCount": 8,
+				"strList": [
+					"Maria",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1511,
+				"charCount": 10,
+				"strList": [
+					"Droisen",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1512,
+				"charCount": 8,
+				"strList": [
+					"Orion",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1513,
+				"charCount": 14,
+				"strList": [
+					"Triptolemus",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1514,
+				"charCount": 8,
+				"strList": [
+					"Klapf",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1515,
+				"charCount": 8,
+				"strList": [
+					"ChaCha",
+					""
+				]
+			},
+			{
+				"id": 1516,
+				"charCount": 8,
+				"strList": [
+					"Pallas",
+					""
+				]
+			},
+			{
+				"id": 1517,
+				"charCount": 10,
+				"strList": [
+					"Tantalus",
+					""
+				]
+			},
+			{
+				"id": 1518,
+				"charCount": 10,
+				"strList": [
+					"Fedorov",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1519,
+				"charCount": 12,
+				"strList": [
+					"Hyakutaro",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1520,
+				"charCount": 8,
+				"strList": [
+					"Uchida",
+					""
+				]
+			},
+			{
+				"id": 1521,
+				"charCount": 10,
+				"strList": [
+					"Lavinia",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1522,
+				"charCount": 10,
+				"strList": [
+					"Rubinsky",
+					""
+				]
+			},
+			{
+				"id": 1523,
+				"charCount": 6,
+				"strList": [
+					"Goto",
+					""
+				]
+			},
+			{
+				"id": 1524,
+				"charCount": 12,
+				"strList": [
+					"Steinmetz",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1525,
+				"charCount": 10,
+				"strList": [
+					"Ingrham",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1526,
+				"charCount": 8,
+				"strList": [
+					"Rokuta",
+					""
+				]
+			},
+			{
+				"id": 1527,
+				"charCount": 10,
+				"strList": [
+					"Menelaus",
+					""
+				]
+			},
+			{
+				"id": 1528,
+				"charCount": 8,
+				"strList": [
+					"Velrna",
+					""
+				]
+			},
+			{
+				"id": 1529,
+				"charCount": 8,
+				"strList": [
+					"Siren",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1530,
+				"charCount": 8,
+				"strList": [
+					"Kawai",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1531,
+				"charCount": 6,
+				"strList": [
+					"Rau",
+					"\u0011"
+				]
+			}
+		]
+	},
+	{
+		"blockCount": 125,
+		"blockList": [
+			{
+				"id": 100,
+				"charCount": 88,
+				"strList": [
+					"[9001]",
+					"欢迎来到战斗学院。",
+					"这里是进行各种各样的战斗训练的地方。",
+					""
+				]
+			},
+			{
+				"id": 101,
+				"charCount": 108,
+				"strList": [
+					"[9001]",
+					"我是你的教官，辛西娅。",
+					"我会教导你，直到你成长为一名合格的士兵。",
+					""
+				]
+			},
+			{
+				"id": 102,
+				"charCount": 48,
+				"strList": [
+					"[9001]",
+					"那么，我们马上开始训练吧。[9999]",
+					""
+				]
+			},
+			{
+				"id": 103,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 110,
+				"charCount": 64,
+				"strList": [
+					"[9001]",
+					"呀，我还以为你会抱怨训练太辛苦了呢…。",
+					""
+				]
+			},
+			{
+				"id": 111,
+				"charCount": 84,
+				"strList": [
+					"[9002]",
+					"你的表现还是可圈可点的嘛。",
+					"很高兴看到对你的训练没有白费。",
+					""
+				]
+			},
+			{
+				"id": 112,
+				"charCount": 42,
+				"strList": [
+					"[9002]",
+					"那么，今天也要全身心投入地训练哦。[9999]",
+					""
+				]
+			},
+			{
+				"id": 113,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 200,
+				"charCount": 44,
+				"strList": [
+					"[9003]",
+					"啊啦？什么？",
+					"才新兵就敢偷懒了吗？",
+					""
+				]
+			},
+			{
+				"id": 201,
+				"charCount": 86,
+				"strList": [
+					"[9001]",
+					"那么，行吧。",
+					"一小会，我就陪你聊一小会儿哦。[9998]",
+					""
+				]
+			},
+			{
+				"id": 210,
+				"charCount": 68,
+				"strList": [
+					"[9003]",
+					"呃，几岁？这个……",
+					"永远不要去问女孩子的年龄哦。[9998]",
+					""
+				]
+			},
+			{
+				"id": 220,
+				"charCount": 54,
+				"strList": [
+					"[9001]",
+					"我想再稍微装饰一下这个房间……",
+					""
+				]
+			},
+			{
+				"id": 221,
+				"charCount": 84,
+				"strList": [
+					"[9007]",
+					"唉，对你这样一个新兵，说这些也没用……[9998]",
+					""
+				]
+			},
+			{
+				"id": 230,
+				"charCount": 60,
+				"strList": [
+					"[9001]",
+					"啊？想看我的手机？",
+					"这个嘛……喂！",
+					""
+				]
+			},
+			{
+				"id": 231,
+				"charCount": 66,
+				"strList": [
+					"[9003]",
+					"我还没同意，你怎么就抢去看了啦！",
+					"把手机还给我！",
+					""
+				]
+			},
+			{
+				"id": 232,
+				"charCount": 64,
+				"strList": [
+					"[9003]",
+					"你可真是不可思议！",
+					"我刚才可没有半点疏忽，这都被你抢到了。[9998]",
+					""
+				]
+			},
+			{
+				"id": 240,
+				"charCount": 76,
+				"strList": [
+					"[9001]",
+					"我是明尼苏达的。",
+					"你怎么对别人老家在哪也感兴趣啊？",
+					""
+				]
+			},
+			{
+				"id": 241,
+				"charCount": 44,
+				"strList": [
+					"[9001]",
+					"啊？在哪里？",
+					""
+				]
+			},
+			{
+				"id": 242,
+				"charCount": 50,
+				"strList": [
+					"[9003]",
+					"你连明尼苏达在哪个国家都搞不清楚吗？",
+					""
+				]
+			},
+			{
+				"id": 243,
+				"charCount": 80,
+				"strList": [
+					"[9004]",
+					"……看来还应该教你一些战斗以外的事情呀……[9998]",
+					""
+				]
+			},
+			{
+				"id": 250,
+				"charCount": 106,
+				"strList": [
+					"[9007]",
+					"在这里工作，背景音乐除了怒骂声就是进行曲，吵死了。",
+					""
+				]
+			},
+			{
+				"id": 251,
+				"charCount": 90,
+				"strList": [
+					"[9007]",
+					"……不用了，谢谢……",
+					"听你唱歌我更快乐不起来……[9998]",
+					""
+				]
+			},
+			{
+				"id": 252,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 260,
+				"charCount": 70,
+				"strList": [
+					"[9001]",
+					"什~么？",
+					"有烦恼了？",
+					"担心以后的训练会更严苛？",
+					""
+				]
+			},
+			{
+				"id": 261,
+				"charCount": 68,
+				"strList": [
+					"[9001]",
+					"唉，听新兵倒苦水也是我的分内工作啊，",
+					""
+				]
+			},
+			{
+				"id": 262,
+				"charCount": 66,
+				"strList": [
+					"[9001]",
+					"不是还说：“抱怨是年轻人的特权”嘛。",
+					""
+				]
+			},
+			{
+				"id": 263,
+				"charCount": 38,
+				"strList": [
+					"[9001]",
+					"……有种上了年纪的感觉呢。",
+					""
+				]
+			},
+			{
+				"id": 264,
+				"charCount": 60,
+				"strList": [
+					"[9002]",
+					"在训练中出一身汗，把烦恼洗刷到九霄云外吧！[9998]",
+					""
+				]
+			},
+			{
+				"id": 265,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 270,
+				"charCount": 52,
+				"strList": [
+					"[9001]",
+					"下个休息日还没什么安排……",
+					""
+				]
+			},
+			{
+				"id": 271,
+				"charCount": 44,
+				"strList": [
+					"[9001]",
+					"呃？你也没什么事？",
+					""
+				]
+			},
+			{
+				"id": 272,
+				"charCount": 44,
+				"strList": [
+					"[9003]",
+					"新兵哪来的休息日啊！",
+					""
+				]
+			},
+			{
+				"id": 273,
+				"charCount": 52,
+				"strList": [
+					"[9003]",
+					"既然还有空休息，就赶紧给我去训练，训练！[9998]",
+					""
+				]
+			},
+			{
+				"id": 280,
+				"charCount": 36,
+				"strList": [
+					"[9001]",
+					"嗯，对象？",
+					""
+				]
+			},
+			{
+				"id": 281,
+				"charCount": 60,
+				"strList": [
+					"[9005]",
+					"嗯~小同志想说什么呢~",
+					""
+				]
+			},
+			{
+				"id": 282,
+				"charCount": 92,
+				"strList": [
+					"[9004]",
+					"与其有空想这种事情，",
+					"还不如把这心思花在训练中。",
+					""
+				]
+			},
+			{
+				"id": 283,
+				"charCount": 68,
+				"strList": [
+					"[9004]",
+					"你再这么下去，会永远只是个新兵的哟。[9998]",
+					""
+				]
+			},
+			{
+				"id": 284,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 290,
+				"charCount": 64,
+				"strList": [
+					"[9001]",
+					"啊，笔掉了……",
+					"哎~应该就在这里啊……",
+					""
+				]
+			},
+			{
+				"id": 291,
+				"charCount": 46,
+				"strList": [
+					"[9003]",
+					"……！",
+					"喂，喂！",
+					"你在看哪里呢？",
+					""
+				]
+			},
+			{
+				"id": 292,
+				"charCount": 96,
+				"strList": [
+					"[9007]",
+					"真是的……",
+					"为什么这种完全和训练无关的事却激起你这么强烈的热情呢？",
+					""
+				]
+			},
+			{
+				"id": 293,
+				"charCount": 90,
+				"strList": [
+					"[9003]",
+					"看来有必要在你这热情枯竭之前彻底地调教调教你啊！[9998]",
+					""
+				]
+			},
+			{
+				"id": 300,
+				"charCount": 86,
+				"strList": [
+					"[9001]",
+					"呼……",
+					"哎？啊，还是你比较高啊……",
+					"才注意到。",
+					""
+				]
+			},
+			{
+				"id": 301,
+				"charCount": 102,
+				"strList": [
+					"[9001]",
+					"你一个小新兵还这么嚣张。",
+					"今后在我面前必须跪着。",
+					""
+				]
+			},
+			{
+				"id": 302,
+				"charCount": 78,
+				"strList": [
+					"[9007]",
+					"……",
+					"开个玩笑……",
+					"真的拜托了，快起来吧。[9998]",
+					""
+				]
+			},
+			{
+				"id": 310,
+				"charCount": 52,
+				"strList": [
+					"[9002]",
+					"喂，你……",
+					"应该是个很无聊没什么爱好的人吧？",
+					""
+				]
+			},
+			{
+				"id": 311,
+				"charCount": 84,
+				"strList": [
+					"[9001]",
+					"哎？不要啦，不要昏倒得这么夸张呀，",
+					"搞得跟漫画里的人一样。",
+					""
+				]
+			},
+			{
+				"id": 312,
+				"charCount": 110,
+				"strList": [
+					"[9001]",
+					"哎呀，别这么生气嘛。",
+					"我只是想象不出你热衷于一件事的样子，才……[9998]",
+					""
+				]
+			},
+			{
+				"id": 313,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 320,
+				"charCount": 96,
+				"strList": [
+					"[9003]",
+					"哎呀呀，这什么？",
+					"这手链是怎么回事？",
+					"士兵佩戴的应该是铭牌才对吧？",
+					""
+				]
+			},
+			{
+				"id": 321,
+				"charCount": 72,
+				"strList": [
+					"[9003]",
+					"训练中不准戴这种东西！",
+					"没收！",
+					""
+				]
+			},
+			{
+				"id": 322,
+				"charCount": 92,
+				"strList": [
+					"[9001]",
+					"……哎呀，还真漂亮啊……",
+					"你那点工资……“月光”了吧？[9998]",
+					""
+				]
+			},
+			{
+				"id": 323,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 324,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 330,
+				"charCount": 78,
+				"strList": [
+					"[9001]",
+					"哎~你会自己做饭？",
+					"呃？我？",
+					"哼~你看我像下不了厨房的女人吗？",
+					""
+				]
+			},
+			{
+				"id": 331,
+				"charCount": 98,
+				"strList": [
+					"[9001]",
+					"女人一定要下得厨房这种观念实在太老土了……",
+					"不过，很不凑巧。",
+					""
+				]
+			},
+			{
+				"id": 332,
+				"charCount": 114,
+				"strList": [
+					"[9002]",
+					"我可绝对比你要有实力的。",
+					"我当年勤工俭学可是做过厨师的哦。[9998]",
+					""
+				]
+			},
+			{
+				"id": 333,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 340,
+				"charCount": 96,
+				"strList": [
+					"[9001]",
+					"喂，平时大家都是怎么叫你的呀？",
+					"嗯~听着很老套呢。",
+					""
+				]
+			},
+			{
+				"id": 341,
+				"charCount": 106,
+				"strList": [
+					"[9001]",
+					"我？告诉你是无所谓啦，不过别用这个名字来叫我。",
+					"为什么？这不废话吗？",
+					""
+				]
+			},
+			{
+				"id": 342,
+				"charCount": 112,
+				"strList": [
+					"[9003]",
+					"部下开始用昵称来称呼长官的话，",
+					"全军不等着礼崩乐坏？[9998]",
+					""
+				]
+			},
+			{
+				"id": 343,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 344,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 350,
+				"charCount": 100,
+				"strList": [
+					"[9001]",
+					"最近身体状况怎么样？",
+					"士兵作战要靠身体，所以身体调理也非常重要的吧。",
+					""
+				]
+			},
+			{
+				"id": 351,
+				"charCount": 46,
+				"strList": [
+					"[9003]",
+					"啊？睡眠不足？",
+					"……唉，你这人呐……",
+					""
+				]
+			},
+			{
+				"id": 352,
+				"charCount": 60,
+				"strList": [
+					"[9004]",
+					"是上网冲浪还是打游戏啦……",
+					"唉，无所谓吧……",
+					""
+				]
+			},
+			{
+				"id": 353,
+				"charCount": 126,
+				"strList": [
+					"[9004]",
+					"哦不对不对不对不对，无论什么都要适可而止啊。",
+					"要不，今天训练上点强度，保证今晚睡个好觉？[9998]",
+					""
+				]
+			},
+			{
+				"id": 354,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 355,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 360,
+				"charCount": 100,
+				"strList": [
+					"[9001]",
+					"呃？我喜欢的演员吗？",
+					"这个，有个演了好多部电视剧的女演员……",
+					""
+				]
+			},
+			{
+				"id": 361,
+				"charCount": 38,
+				"strList": [
+					"[9001]",
+					"……呃？不是说女的，",
+					"是男的？",
+					""
+				]
+			},
+			{
+				"id": 362,
+				"charCount": 36,
+				"strList": [
+					"[9002]",
+					"唔，反正，你不是我的菜。",
+					""
+				]
+			},
+			{
+				"id": 363,
+				"charCount": 74,
+				"strList": [
+					"[9002]",
+					"什么啊？别这么失落嘛。",
+					"呃？我太直接了吗？",
+					""
+				]
+			},
+			{
+				"id": 364,
+				"charCount": 48,
+				"strList": [
+					"[9002]",
+					"你知道的，我不喜欢拐弯抹角。[9998]",
+					""
+				]
+			},
+			{
+				"id": 370,
+				"charCount": 90,
+				"strList": [
+					"[9001]",
+					"好，开始训练！",
+					"新兵，不管是睡着还是醒着，都给我训练，训练！",
+					""
+				]
+			},
+			{
+				"id": 371,
+				"charCount": 86,
+				"strList": [
+					"[9002]",
+					"赶紧成为一个合格的士兵吧，",
+					"这样就不用见到像我这样讨厌的长官了。[9999]",
+					""
+				]
+			},
+			{
+				"id": 372,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 400,
+				"charCount": 198,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"允许3次失误——当然了，失误越少评级越高。",
+					"时间不在考量范围之内，所以建议谨慎行事。[9999]",
+					""
+				]
+			},
+			{
+				"id": 410,
+				"charCount": 212,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"耗时越短评级越高。除手榴弹以外，弹药没有使用限制，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 420,
+				"charCount": 192,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"武器只有手榴弹和手枪。耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 430,
+				"charCount": 172,
+				"strList": [
+					"本次训练的目标是物资收集。",
+					"收集率越高评级越高。[9999]",
+					"相比于消灭敌人，请优先考虑收集物资。",
+					""
+				]
+			},
+			{
+				"id": 440,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是营救战俘。",
+					"战俘解救率越高评级越高。",
+					"救出战俘可以增强我军的战斗力。",
+					"相比于消灭敌人，请优先考虑营救战俘。[9999]",
+					""
+				]
+			},
+			{
+				"id": 450,
+				"charCount": 218,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"允许3次失误——当然了，失误越少评级越高。",
+					"时间不在考量范围之内，所以建议谨慎行事。[9999]",
+					""
+				]
+			},
+			{
+				"id": 460,
+				"charCount": 214,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"耗时越短评级越高。除手榴弹以外，弹药没有使用限制，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 470,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"武器只有手榴弹和手枪。耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 480,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是在一定时间内不失误。",
+					"躲避掉落的障碍物，在这段时间内不受伤。",
+					"坚持时间越长评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 490,
+				"charCount": 216,
+				"strList": [
+					"本次训练的目标是清除障碍物。",
+					"请摧毁战场内的全部障碍物。",
+					"耗时越短评级越高。",
+					"障碍物中藏有弹药，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 500,
+				"charCount": 172,
+				"strList": [
+					"本次训练的目标是收集藏在障碍物中的物资。",
+					"请收集战场内障碍物中隐藏的全部物资。",
+					"限制时间内收集的物资越多，评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 510,
+				"charCount": 206,
+				"strList": [
+					"本次训练的目标是消灭敌空军。",
+					"请消灭战场内所有的敌方航空器。",
+					"耗时越短评级越高。请善加利用敌人的地面设备。[9999]",
+					""
+				]
+			},
+			{
+				"id": 520,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"别让球落地，搬运到目的地的球越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 530,
+				"charCount": 198,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"球只有一颗，耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 540,
+				"charCount": 150,
+				"strList": [
+					"本次训练的目标是收集球。",
+					"请用射击推动矿车去接球。",
+					"接到的球越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 550,
+				"charCount": 188,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"球只有一颗，击球次数越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 560,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是移动电梯。",
+					"请用射击大型电梯，将其移动到目的地。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 570,
+				"charCount": 168,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请肃清电梯上的敌人，向目的地挺进。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 580,
+				"charCount": 182,
+				"strList": [
+					"本次训练的目标是摧毁敌军战力。",
+					"请在限定时间内尽可能多地破坏敌军武器。",
+					"破坏数量越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 590,
+				"charCount": 234,
+				"strList": [
+					"本次训练的目标是保卫粮食安全。",
+					"请在限定时间内尽可能采集食材。",
+					"食材采集越多评级越高。",
+					"当心菌子，它们会暂时令身体难以控制！[9999]",
+					""
+				]
+			},
+			{
+				"id": 600,
+				"charCount": 174,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"充分利用战场上方的立足点。",
+					"达成目标耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 610,
+				"charCount": 158,
+				"strList": [
+					"本次训练的目标是确保球不落地。",
+					"请在限定时间内确保尽可能多的球不落地。[9999]",
+					"坚持的时间越长、未落地的球越多，评级越高。",
+					""
+				]
+			},
+			{
+				"id": 620,
+				"charCount": 254,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请在限定时间内突破战线。",
+					"只能使用近战攻击。",
+					"达成目标耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 630,
+				"charCount": 184,
+				"strList": [
+					"本次训练的目标是摧毁敌军战力。",
+					"请在限定时间内尽可能多地破坏敌军武器。",
+					"破坏数量越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 640,
+				"charCount": 144,
+				"strList": [
+					"本次训练的目标是确保球不落地。",
+					"在时间用完前保住尽可能多的球。",
+					"保住它们越久，评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 650,
+				"charCount": 158,
+				"strList": [
+					"本次训练的目标是增强运动能力。",
+					"请在限定时间内尽可能地跳。",
+					"滞空时间越长评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 660,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 670,
+				"charCount": 210,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"立足点很不稳定，请小心！[9999]",
+					""
+				]
+			},
+			{
+				"id": 680,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是提升时机把控能力。",
+					"请尽可能迟地躲避逼近的大型雪橇。",
+					"躲避时离雪橇越近评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 690,
+				"charCount": 262,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"另外，任何武器都不能使用。",
+					"只能通过巨灵战车的攻击手段消灭敌人。[9999]",
+					""
+				]
+			},
+			{
+				"id": 700,
+				"charCount": 154,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请在限定时间内到达目的地。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 710,
+				"charCount": 208,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"由于立足点会慢慢下沉，所以请在战斗中不断走动。[9999]",
+					""
+				]
+			},
+			{
+				"id": 720,
+				"charCount": 230,
+				"strList": [
+					"本次训练的目标是保卫粮食安全。",
+					"请在限定时间内尽可能采集食材。",
+					"食材采集越多评级越高。",
+					"当心青蛙，它们会暂时令身体难以控制！[9999]",
+					""
+				]
+			},
+			{
+				"id": 760,
+				"charCount": 340,
+				"strList": [
+					"本训练科目看的是在失误而失败前能将流程推进到多远。",
+					"最后将根据完成的任务数得到评级。",
+					"除手榴弹外的弹药没有使用限制。",
+					"由于除了手上武器，无法存储备用的武器，如何运用随机应变的战术将是过关的关键。[9999]",
+					""
+				]
+			},
+			{
+				"id": 800,
+				"charCount": 40,
+				"strList": [
+					"这样的训练科目对你来说没问题，是吧？",
+					""
+				]
+			},
+			{
+				"id": 810,
+				"charCount": 36,
+				"strList": [
+					"你能搞定这项训练科目吗？",
+					""
+				]
+			},
+			{
+				"id": 1800,
+				"charCount": 132,
+				"strList": [
+					"[9001]",
+					"别在意会否失败，全力去挑战吧！",
+					"别想去装酷什么的，要练好基本功！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1801,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1810,
+				"charCount": 74,
+				"strList": [
+					"[9001]",
+					"还马马虎虎吧。",
+					"[9007]",
+					"这种难度，能过是理所当然的。",
+					""
+				]
+			},
+			{
+				"id": 1811,
+				"charCount": 78,
+				"strList": [
+					"[9003]",
+					"别沾沾自喜。",
+					"快开始下个训练科目！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1820,
+				"charCount": 118,
+				"strList": [
+					"[9004]",
+					"唉……我对你如此“悲壮”的失败真是无语了。",
+					"就这状态还想去打仗……",
+					""
+				]
+			},
+			{
+				"id": 1821,
+				"charCount": 44,
+				"strList": [
+					"[9004]",
+					"嘛，正因为这样，我才要锻炼你啊。",
+					""
+				]
+			},
+			{
+				"id": 1822,
+				"charCount": 76,
+				"strList": [
+					"[9003]",
+					"好啦！反省结束，继续训练！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1823,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1830,
+				"charCount": 66,
+				"strList": [
+					"[9001]",
+					"不错。",
+					"……",
+					"呃？你觉得我应该更高兴一点？",
+					""
+				]
+			},
+			{
+				"id": 1831,
+				"charCount": 82,
+				"strList": [
+					"[9007]",
+					"唉……我说啊：",
+					"就你这样的大头兵，随便一块砖头砸下来，都能砸扁一片。",
+					""
+				]
+			},
+			{
+				"id": 1832,
+				"charCount": 60,
+				"strList": [
+					"[9007]",
+					"什么事都这么高兴，不累吗……[9999]",
+					""
+				]
+			},
+			{
+				"id": 1833,
+				"charCount": 10,
+				"strList": [
+					" ",
+					"?",
+					"[910",
+					""
+				]
+			}
+		]
+	},
+	{
+		"blockCount": 135,
+		"blockList": [
+			{
+				"id": 110,
+				"charCount": 84,
+				"strList": [
+					"[9001]",
+					"哎呀，看起来今天的状态不错呢。",
+					"今天要进行什么训练呢?[9999]",
+					""
+				]
+			},
+			{
+				"id": 200,
+				"charCount": 116,
+				"strList": [
+					"[9002]",
+					"这样啊，那就稍微聊会儿天吧。",
+					"不过训练也很重要，所以只能聊一会儿哦。[9998]",
+					""
+				]
+			},
+			{
+				"id": 201,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 210,
+				"charCount": 82,
+				"strList": [
+					"[9001]",
+					"哎？你才这么大？",
+					"嘿~你外表看起来比实际更成熟嘛。",
+					""
+				]
+			},
+			{
+				"id": 211,
+				"charCount": 32,
+				"strList": [
+					"[9001]",
+					"我25。看起来像吗？",
+					""
+				]
+			},
+			{
+				"id": 212,
+				"charCount": 22,
+				"strList": [
+					"[9003]",
+					"那个……呃……",
+					""
+				]
+			},
+			{
+				"id": 213,
+				"charCount": 98,
+				"strList": [
+					"[9003]",
+					"就算是朋友之间，也应该有点礼貌吧。",
+					"这种时候你说“你看起来好年轻啊”，人家听了才高兴嘛。[9998]",
+					""
+				]
+			},
+			{
+				"id": 220,
+				"charCount": 114,
+				"strList": [
+					"[9001]",
+					"我之前有说过的吧？我觉得这个房间加点花或者其他的什么观赏植物就会漂亮点……",
+					""
+				]
+			},
+			{
+				"id": 221,
+				"charCount": 84,
+				"strList": [
+					"[9001]",
+					"哎？啊~不好意思。",
+					"我并没有暗示你去买的意思。",
+					""
+				]
+			},
+			{
+				"id": 222,
+				"charCount": 66,
+				"strList": [
+					"[9005]",
+					"不过你要真去买的话，我也非常欢迎。[9998]",
+					""
+				]
+			},
+			{
+				"id": 223,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 230,
+				"charCount": 104,
+				"strList": [
+					"[9001]",
+					"我的手机号码？",
+					"我没告诉过你吗？",
+					"不过，你的号码已经在我手机里存过了哦。",
+					""
+				]
+			},
+			{
+				"id": 231,
+				"charCount": 78,
+				"strList": [
+					"[9001]",
+					"为什么？",
+					"这个嘛，有很多东西要搬的时候，就要请你帮忙啦……",
+					""
+				]
+			},
+			{
+				"id": 232,
+				"charCount": 62,
+				"strList": [
+					"[9002]",
+					"哎？啊哈哈，不是什么跑腿服务啦。",
+					""
+				]
+			},
+			{
+				"id": 233,
+				"charCount": 74,
+				"strList": [
+					"[9002]",
+					"我会请你吃饭的啦。",
+					"这下肯帮忙了吧？[9998]",
+					""
+				]
+			},
+			{
+				"id": 234,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 240,
+				"charCount": 114,
+				"strList": [
+					"[9001]",
+					"说起来，还没问过你是哪里人呢。",
+					"……唔~有什么特产吗？",
+					"哦，我明尼苏达那里……",
+					""
+				]
+			},
+			{
+				"id": 241,
+				"charCount": 90,
+				"strList": [
+					"[9003]",
+					"对了，你查到明尼苏达到底在哪个国家了吗？",
+					"……没错，回答正确。",
+					""
+				]
+			},
+			{
+				"id": 242,
+				"charCount": 100,
+				"strList": [
+					"[9007]",
+					"你自己还说：战斗无非“爵中温酒、阵前华雄”，",
+					"怎么做到连这种事情都不知道的……",
+					""
+				]
+			},
+			{
+				"id": 243,
+				"charCount": 88,
+				"strList": [
+					"[9007]",
+					"要是连地理知识都不清楚，岂不是要在战场上迷路？[9998]",
+					""
+				]
+			},
+			{
+				"id": 244,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 245,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 250,
+				"charCount": 78,
+				"strList": [
+					"[9001]",
+					"话说，跑步的时候不是还可以唱歌吗？",
+					"不能来点爵士或者蓝调的吗？",
+					""
+				]
+			},
+			{
+				"id": 251,
+				"charCount": 74,
+				"strList": [
+					"[9001]",
+					"啊~会不会节奏跟不上啊？",
+					"哎？不是问题？",
+					""
+				]
+			},
+			{
+				"id": 252,
+				"charCount": 76,
+				"strList": [
+					"[9002]",
+					"不过嘛~至少比一声不吭地跑步要好多了。[9998]",
+					""
+				]
+			},
+			{
+				"id": 260,
+				"charCount": 82,
+				"strList": [
+					"[9001]",
+					"嗯？现在的工作？",
+					"我是乐在其中啦。",
+					"是我自己选择入伍的，也就没什么不满意的。",
+					""
+				]
+			},
+			{
+				"id": 261,
+				"charCount": 84,
+				"strList": [
+					"[9007]",
+					"但是还是新兵的时候老是被骂，真的是非常郁闷呢。",
+					""
+				]
+			},
+			{
+				"id": 262,
+				"charCount": 36,
+				"strList": [
+					"[9001]",
+					"哎？为什么会被骂？",
+					""
+				]
+			},
+			{
+				"id": 263,
+				"charCount": 114,
+				"strList": [
+					"[9002]",
+					"这……这个嘛……",
+					"也没什么，不是什么大不了的事！",
+					"跟你说也行，不过……改天……下次一定哈。[9998]",
+					""
+				]
+			},
+			{
+				"id": 264,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 270,
+				"charCount": 68,
+				"strList": [
+					"[9002]",
+					"那个那个，下一个休息日不如……",
+					"对的！你是懂我的。",
+					""
+				]
+			},
+			{
+				"id": 271,
+				"charCount": 92,
+				"strList": [
+					"[9006]",
+					"要是错过了这次促销的话，那件我已经盯了很久的很漂亮的蓝色的……",
+					""
+				]
+			},
+			{
+				"id": 272,
+				"charCount": 62,
+				"strList": [
+					"[9004]",
+					"呀，等等，别说“不要”啊！",
+					"拜托了！——有了！",
+					""
+				]
+			},
+			{
+				"id": 273,
+				"charCount": 116,
+				"strList": [
+					"[9002]",
+					"如果你能帮忙载我一程，",
+					"我一定给你送些好东西好好答谢你，哪天中午还得请你一顿大餐！",
+					"我什么都会做的，求你了！[9998]",
+					""
+				]
+			},
+			{
+				"id": 274,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 275,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 280,
+				"charCount": 72,
+				"strList": [
+					"[9001]",
+					"有对象吗？",
+					"啊，没有啊？",
+					"寂寞·单身·冷 啊~",
+					""
+				]
+			},
+			{
+				"id": 281,
+				"charCount": 88,
+				"strList": [
+					"[9001]",
+					"唔，看来我们是单身阵线联盟啊。",
+					"不过一旦我找到男朋友，我就把他介绍给你认识。",
+					""
+				]
+			},
+			{
+				"id": 282,
+				"charCount": 84,
+				"strList": [
+					"[9001]",
+					"敬请期待吧……",
+					"你怎么一副这种复杂的表情？[9998]",
+					""
+				]
+			},
+			{
+				"id": 290,
+				"charCount": 62,
+				"strList": [
+					"[9007]",
+					"呼~今天还真是热呢。",
+					"[9015](扇……扇……)",
+					""
+				]
+			},
+			{
+				"id": 291,
+				"charCount": 78,
+				"strList": [
+					"[9002]",
+					"……！",
+					"怎么？这色眯眯的眼神……",
+					"对我的身体感兴趣吗？",
+					""
+				]
+			},
+			{
+				"id": 292,
+				"charCount": 76,
+				"strList": [
+					"[9001]",
+					"三围？嗯~你猜？",
+					"……可惜！差了一点点。",
+					""
+				]
+			},
+			{
+				"id": 293,
+				"charCount": 76,
+				"strList": [
+					"[9001]",
+					"正确答案？",
+					"非常——遗憾~我是不会告诉外人的。[9998]",
+					""
+				]
+			},
+			{
+				"id": 294,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 295,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 300,
+				"charCount": 88,
+				"strList": [
+					"[9001]",
+					"看不出来你有这么重啊……",
+					"啊~肌肉这么结实的话，体重就减不下去了。",
+					""
+				]
+			},
+			{
+				"id": 301,
+				"charCount": 28,
+				"strList": [
+					"[9001]",
+					"唔~让我康康……",
+					""
+				]
+			},
+			{
+				"id": 302,
+				"charCount": 74,
+				"strList": [
+					"[9005]",
+					"哇~硬梆梆啊！",
+					"这里呢？呜哇！",
+					"惊人啊~",
+					""
+				]
+			},
+			{
+				"id": 303,
+				"charCount": 74,
+				"strList": [
+					"[9001]",
+					"哎？很痒？",
+					"让我再摸摸其他的部位吧。",
+					"啊，站住！别逃啊。[9998]",
+					" ",
+					" ",
+					" ",
+					" ",
+					" ",
+					" ",
+					"(汉化者按：把这段话倒着读看看……",
+					"可以去对对原文，真不是我故意的。",
+					"我不行了……)",
+					""
+				]
+			},
+			{
+				"id": 310,
+				"charCount": 64,
+				"strList": [
+					"[9001]",
+					"爱好？爱好嘛~",
+					"我没什么特别热衷的事物呢~",
+					""
+				]
+			},
+			{
+				"id": 311,
+				"charCount": 90,
+				"strList": [
+					"[9001]",
+					"我姐姐倒是比较喜欢钓鱼和游泳……",
+					"你有什么想推荐的？",
+					""
+				]
+			},
+			{
+				"id": 312,
+				"charCount": 26,
+				"strList": [
+					"[9003]",
+					"哎？网络游戏？",
+					""
+				]
+			},
+			{
+				"id": 313,
+				"charCount": 70,
+				"strList": [
+					"[9004]",
+					"唔……",
+					"还是那些需要运动身体的活动比较适合我吧……[9998]",
+					""
+				]
+			},
+			{
+				"id": 320,
+				"charCount": 74,
+				"strList": [
+					"[9001]",
+					"给你，之前没收的你的手链。",
+					"一定很贵吧？",
+					""
+				]
+			},
+			{
+				"id": 321,
+				"charCount": 112,
+				"strList": [
+					"[9003]",
+					"下次不要戴了。",
+					"就算我们是朋友，但这是原则问题，我不能放任。",
+					""
+				]
+			},
+			{
+				"id": 322,
+				"charCount": 94,
+				"strList": [
+					"[9003]",
+					"还有，戴着这种武装之外的东西上战场的话，",
+					""
+				]
+			},
+			{
+				"id": 323,
+				"charCount": 38,
+				"strList": [
+					"[9003]",
+					"一旦挂彩，马上就会沦为别人的笑柄了。",
+					""
+				]
+			},
+			{
+				"id": 324,
+				"charCount": 102,
+				"strList": [
+					"[9002]",
+					"就这样。",
+					"偶尔也不得不说些官话。[9998]",
+					""
+				]
+			},
+			{
+				"id": 325,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 326,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 330,
+				"charCount": 78,
+				"strList": [
+					"[9001]",
+					"你之前说过，饭都是自己做吧？",
+					"你会做什么菜啊？",
+					""
+				]
+			},
+			{
+				"id": 331,
+				"charCount": 102,
+				"strList": [
+					"[9004]",
+					"……哇，营养可太不平衡啦。",
+					"哎？不知道其他的菜怎么做？",
+					""
+				]
+			},
+			{
+				"id": 332,
+				"charCount": 114,
+				"strList": [
+					"[9002]",
+					"真没办法。",
+					"下次我多教你点吧。",
+					"当然了，材料你准备。[9998]",
+					""
+				]
+			},
+			{
+				"id": 333,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 334,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 340,
+				"charCount": 60,
+				"strList": [
+					"[9001]",
+					"哎？我的名字？",
+					"叫我“辛辛”也行。",
+					""
+				]
+			},
+			{
+				"id": 341,
+				"charCount": 96,
+				"strList": [
+					"[9001]",
+					"不过，工作的时候要称职务，“教官”。",
+					"不然给别人听到，影响不好。",
+					""
+				]
+			},
+			{
+				"id": 342,
+				"charCount": 44,
+				"strList": [
+					"[9002]",
+					"但私下里就无所谓了。[9998]",
+					""
+				]
+			},
+			{
+				"id": 343,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 350,
+				"charCount": 92,
+				"strList": [
+					"[9002]",
+					"最近状态不错嘛。啊~对了。",
+					"没有再熬夜了吧。不错，不错。",
+					""
+				]
+			},
+			{
+				"id": 351,
+				"charCount": 76,
+				"strList": [
+					"[9001]",
+					"我？我最近工作很多啊。",
+					"无论怎样都得很晚才能睡。",
+					""
+				]
+			},
+			{
+				"id": 352,
+				"charCount": 58,
+				"strList": [
+					"[9001]",
+					"哎？清早起来再工作？",
+					""
+				]
+			},
+			{
+				"id": 353,
+				"charCount": 108,
+				"strList": [
+					"[9004]",
+					"呜……当不了早起鸟啊……",
+					"闹钟不知怎么全部坏掉了……[9998]",
+					""
+				]
+			},
+			{
+				"id": 354,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 360,
+				"charCount": 58,
+				"strList": [
+					"[9001]",
+					"喜欢的男生类型？",
+					"之前不是问过了嘛？",
+					"这个嘛……",
+					""
+				]
+			},
+			{
+				"id": 361,
+				"charCount": 44,
+				"strList": [
+					"[9001]",
+					"应该是有钱人吧。",
+					""
+				]
+			},
+			{
+				"id": 362,
+				"charCount": 62,
+				"strList": [
+					"[9001]",
+					"哈？毫无梦想？",
+					"哪有呢。",
+					""
+				]
+			},
+			{
+				"id": 363,
+				"charCount": 66,
+				"strList": [
+					"[9001]",
+					"有了钱不就能过梦想中的生活了吗？",
+					""
+				]
+			},
+			{
+				"id": 364,
+				"charCount": 116,
+				"strList": [
+					"[9004]",
+					"因为没钱，就要每天面对这么残酷的现实，太令人沮丧了。[9998]",
+					""
+				]
+			},
+			{
+				"id": 370,
+				"charCount": 46,
+				"strList": [
+					"[9001]",
+					"好了，是不是聊得太“深入”了？",
+					""
+				]
+			},
+			{
+				"id": 371,
+				"charCount": 82,
+				"strList": [
+					"[9001]",
+					"不好意思，让你陪我聊了这么多。",
+					"赶紧开始训练吧。[9999]",
+					""
+				]
+			},
+			{
+				"id": 400,
+				"charCount": 198,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"允许3次失误——当然了，失误越少评级越高。",
+					"时间不在考量范围之内，所以建议谨慎行事。[9999]",
+					""
+				]
+			},
+			{
+				"id": 410,
+				"charCount": 212,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"耗时越短评级越高。除手榴弹以外，弹药没有使用限制，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 420,
+				"charCount": 192,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"武器只有手榴弹和手枪。耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 430,
+				"charCount": 172,
+				"strList": [
+					"本次训练的目标是物资收集。",
+					"收集率越高评级越高。[9999]",
+					"相比于消灭敌人，请优先考虑收集物资。",
+					""
+				]
+			},
+			{
+				"id": 440,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是营救战俘。",
+					"战俘解救率越高评级越高。",
+					"救出战俘可以增强我军的战斗力。",
+					"相比于消灭敌人，请优先考虑营救战俘。[9999]",
+					""
+				]
+			},
+			{
+				"id": 450,
+				"charCount": 218,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"允许3次失误——当然了，失误越少评级越高。",
+					"时间不在考量范围之内，所以建议谨慎行事。[9999]",
+					""
+				]
+			},
+			{
+				"id": 460,
+				"charCount": 214,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"耗时越短评级越高。除手榴弹以外，弹药没有使用限制，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 470,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"武器只有手榴弹和手枪。耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 480,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是在一定时间内不失误。",
+					"躲避掉落的障碍物，在这段时间内不受伤。",
+					"坚持时间越长评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 490,
+				"charCount": 216,
+				"strList": [
+					"本次训练的目标是清除障碍物。",
+					"请摧毁战场内的全部障碍物。",
+					"耗时越短评级越高。",
+					"障碍物中藏有弹药，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 500,
+				"charCount": 172,
+				"strList": [
+					"本次训练的目标是收集藏在障碍物中的物资。",
+					"请收集战场内障碍物中隐藏的全部物资。",
+					"限制时间内收集的物资越多，评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 510,
+				"charCount": 206,
+				"strList": [
+					"本次训练的目标是消灭敌空军。",
+					"请消灭战场内所有的敌方航空器。",
+					"耗时越短评级越高。请善加利用敌人的地面设备。[9999]",
+					""
+				]
+			},
+			{
+				"id": 520,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"别让球落地，搬运到目的地的球越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 530,
+				"charCount": 198,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"球只有一颗，耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 540,
+				"charCount": 150,
+				"strList": [
+					"本次训练的目标是收集球。",
+					"请用射击推动矿车去接球。",
+					"接到的球越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 550,
+				"charCount": 188,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"球只有一颗，击球次数越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 560,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是移动电梯。",
+					"请用射击大型电梯，将其移动到目的地。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 570,
+				"charCount": 168,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请肃清电梯上的敌人，向目的地挺进。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 580,
+				"charCount": 182,
+				"strList": [
+					"本次训练的目标是摧毁敌军战力。",
+					"请在限定时间内尽可能多地破坏敌军武器。",
+					"破坏数量越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 590,
+				"charCount": 234,
+				"strList": [
+					"本次训练的目标是保卫粮食安全。",
+					"请在限定时间内尽可能采集食材。",
+					"食材采集越多评级越高。",
+					"当心菌子，它们会暂时令身体难以控制！[9999]",
+					""
+				]
+			},
+			{
+				"id": 600,
+				"charCount": 174,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"充分利用战场上方的立足点。",
+					"达成目标耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 610,
+				"charCount": 158,
+				"strList": [
+					"本次训练的目标是确保球不落地。",
+					"请在限定时间内确保尽可能多的球不落地。[9999]",
+					"坚持的时间越长、未落地的球越多，评级越高。",
+					""
+				]
+			},
+			{
+				"id": 620,
+				"charCount": 254,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请在限定时间内突破战线。",
+					"只能使用近战攻击。",
+					"达成目标耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 630,
+				"charCount": 184,
+				"strList": [
+					"本次训练的目标是摧毁敌军战力。",
+					"请在限定时间内尽可能多地破坏敌军武器。",
+					"破坏数量越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 640,
+				"charCount": 144,
+				"strList": [
+					"本次训练的目标是确保球不落地。",
+					"在时间用完前保住尽可能多的球。",
+					"保住它们越久，评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 650,
+				"charCount": 158,
+				"strList": [
+					"本次训练的目标是增强运动能力。",
+					"请在限定时间内尽可能地跳。",
+					"滞空时间越长评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 660,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 670,
+				"charCount": 210,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"立足点很不稳定，请小心！[9999]",
+					""
+				]
+			},
+			{
+				"id": 680,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是提升时机把控能力。",
+					"请尽可能迟地躲避逼近的大型雪橇。",
+					"躲避时离雪橇越近评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 690,
+				"charCount": 262,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"另外，任何武器都不能使用。",
+					"只能通过巨灵战车的攻击手段消灭敌人。[9999]",
+					""
+				]
+			},
+			{
+				"id": 700,
+				"charCount": 154,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请在限定时间内到达目的地。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 710,
+				"charCount": 208,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"由于立足点会慢慢下沉，所以请在战斗中不断走动。[9999]",
+					""
+				]
+			},
+			{
+				"id": 720,
+				"charCount": 230,
+				"strList": [
+					"本次训练的目标是保卫粮食安全。",
+					"请在限定时间内尽可能采集食材。",
+					"食材采集越多评级越高。",
+					"当心青蛙，它们会暂时令身体难以控制！[9999]",
+					""
+				]
+			},
+			{
+				"id": 760,
+				"charCount": 340,
+				"strList": [
+					"本训练科目看的是在失误而失败前能将流程推进到多远。",
+					"最后将根据完成的任务数得到评级。",
+					"除手榴弹外的弹药没有使用限制。",
+					"由于除了手上武器，无法存储备用的武器，如何运用随机应变的战术将是过关的关键。[9999]",
+					""
+				]
+			},
+			{
+				"id": 800,
+				"charCount": 40,
+				"strList": [
+					"这样的训练科目对你来说没问题，是吧？",
+					""
+				]
+			},
+			{
+				"id": 810,
+				"charCount": 36,
+				"strList": [
+					"你能搞定这项训练科目吗？",
+					""
+				]
+			},
+			{
+				"id": 1800,
+				"charCount": 116,
+				"strList": [
+					"[9005]",
+					"差不多你也习惯训练了吧！",
+					"就向教官我展示一下你良好的训练成果吧！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1801,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1810,
+				"charCount": 66,
+				"strList": [
+					"[9001]",
+					"相当不错哟。",
+					"哎？你看起来怎么样？",
+					"嗯~这个嘛……",
+					""
+				]
+			},
+			{
+				"id": 1811,
+				"charCount": 68,
+				"strList": [
+					"[9006]",
+					"如果你能一直这么努力下去，",
+					"说不定我真的会爱上你……",
+					""
+				]
+			},
+			{
+				"id": 1812,
+				"charCount": 104,
+				"strList": [
+					"[9005]",
+					"……开玩笑的，是假的！",
+					"啊哈哈，对不起，对不起。",
+					"好，我们开始下一项训练吧！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1813,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1820,
+				"charCount": 42,
+				"strList": [
+					"[9004]",
+					"哎呀哎呀……",
+					"真够糗的~",
+					""
+				]
+			},
+			{
+				"id": 1821,
+				"charCount": 48,
+				"strList": [
+					"[9001]",
+					"什么什么？",
+					"状态问题？",
+					""
+				]
+			},
+			{
+				"id": 1822,
+				"charCount": 50,
+				"strList": [
+					"[9002]",
+					"啊哈哈哈，还好是训练啊！",
+					""
+				]
+			},
+			{
+				"id": 1823,
+				"charCount": 74,
+				"strList": [
+					"[9002]",
+					"记住了，你就是把这只当成训练才会失败的。",
+					""
+				]
+			},
+			{
+				"id": 1824,
+				"charCount": 46,
+				"strList": [
+					"[9001]",
+					"一定要把所有的训练都当成实战。[9999]",
+					""
+				]
+			},
+			{
+				"id": 1830,
+				"charCount": 96,
+				"strList": [
+					"[9001]",
+					"唔~看起来越来越像个真正的士兵了。",
+					"我这个教官的功劳也不小吧？哈哈。",
+					""
+				]
+			},
+			{
+				"id": 1831,
+				"charCount": 40,
+				"strList": [
+					"[9002]",
+					"抱歉，开个玩笑。",
+					"恭喜你！",
+					""
+				]
+			},
+			{
+				"id": 1832,
+				"charCount": 30,
+				"strList": [
+					"[9001]",
+					"……",
+					"聊几句，可以吗？",
+					""
+				]
+			},
+			{
+				"id": 1833,
+				"charCount": 96,
+				"strList": [
+					"[9001]",
+					"“一分耕耘，一分收获。”",
+					"起初可能不太能理解，甚至会感觉很讨厌。",
+					""
+				]
+			},
+			{
+				"id": 1834,
+				"charCount": 104,
+				"strList": [
+					"[9001]",
+					"但是到了最后的最后，能依赖的，不正是今天量变引发的质变吗？",
+					"这点永远不要忘记。[9999]",
+					""
+				]
+			},
+			{
+				"id": 1835,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1836,
+				"charCount": 4,
+				"strList": [
+					" ",
+					"",
+					""
+				]
+			}
+		]
+	},
+	{
+		"blockCount": 172,
+		"blockList": [
+			{
+				"id": 110,
+				"charCount": 16,
+				"strList": [
+					"[9005]",
+					"嗯……",
+					""
+				]
+			},
+			{
+				"id": 111,
+				"charCount": 98,
+				"strList": [
+					"[9001]",
+					"你今天看起来很精力充沛嘛。",
+					"训练时不要太玩儿命，小心伤到自己哟。",
+					""
+				]
+			},
+			{
+				"id": 112,
+				"charCount": 28,
+				"strList": [
+					"[9001]",
+					"哎，担心你？",
+					""
+				]
+			},
+			{
+				"id": 113,
+				"charCount": 78,
+				"strList": [
+					"[9003]",
+					"……！",
+					"去去去。",
+					"监督部下，是我作为长官的职责！",
+					""
+				]
+			},
+			{
+				"id": 114,
+				"charCount": 72,
+				"strList": [
+					"[9003]",
+					"别傻了，我们来进行今天的训练吧！[9999]",
+					""
+				]
+			},
+			{
+				"id": 115,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 200,
+				"charCount": 84,
+				"strList": [
+					"[9002]",
+					"嗯，你说得对。",
+					"训练固然很重要，但是沟通交流也同样很重要哟。",
+					""
+				]
+			},
+			{
+				"id": 201,
+				"charCount": 34,
+				"strList": [
+					"[9001]",
+					"那是当然咯！",
+					"所以嘛……",
+					""
+				]
+			},
+			{
+				"id": 202,
+				"charCount": 58,
+				"strList": [
+					"[9002]",
+					"今天聊久点也不是不行？[9998]",
+					""
+				]
+			},
+			{
+				"id": 203,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 210,
+				"charCount": 76,
+				"strList": [
+					"[9004]",
+					"呐……那个……",
+					"我寻思着，我们的年龄差不多呢。",
+					""
+				]
+			},
+			{
+				"id": 211,
+				"charCount": 34,
+				"strList": [
+					"[9004]",
+					"嗯？什么……",
+					"那个……！",
+					""
+				]
+			},
+			{
+				"id": 212,
+				"charCount": 46,
+				"strList": [
+					"[9003]",
+					"就部下和上司的关系啊——",
+					""
+				]
+			},
+			{
+				"id": 213,
+				"charCount": 76,
+				"strList": [
+					"[9003]",
+					"非远非近，亦疏亦密。",
+					"恰到好处！",
+					"额，哈哈……",
+					""
+				]
+			},
+			{
+				"id": 214,
+				"charCount": 46,
+				"strList": [
+					"[9004]",
+					"(呜……搞砸了呀~)[9998]",
+					""
+				]
+			},
+			{
+				"id": 220,
+				"charCount": 62,
+				"strList": [
+					"[9001]",
+					"哎？嗯……",
+					"我试着用插花打扮了下。",
+					""
+				]
+			},
+			{
+				"id": 221,
+				"charCount": 50,
+				"strList": [
+					"[9006]",
+					"(好耶！他注意到了！)",
+					"觉得……怎么样？",
+					""
+				]
+			},
+			{
+				"id": 222,
+				"charCount": 96,
+				"strList": [
+					"[9006]",
+					"嗯？漂亮吗？",
+					"那个……今天就只是简单地画了下妆……",
+					""
+				]
+			},
+			{
+				"id": 223,
+				"charCount": 56,
+				"strList": [
+					"[9001]",
+					"这……啊……是，是的！",
+					"花！",
+					""
+				]
+			},
+			{
+				"id": 224,
+				"charCount": 72,
+				"strList": [
+					"[9003]",
+					"这可是我花了很大功夫找的，夸我！[9998]",
+					""
+				]
+			},
+			{
+				"id": 225,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 230,
+				"charCount": 92,
+				"strList": [
+					"[9009]",
+					"♫♪♪ ♫♪♪ ♫♪♪ ♪~(姐姐来电)",
+					"[9001]",
+					"对不起，稍微等一下。",
+					"喂……是。",
+					"……嗯，好。",
+					""
+				]
+			},
+			{
+				"id": 231,
+				"charCount": 80,
+				"strList": [
+					"[9004]",
+					"嗯……那个，我要先挂了。",
+					"好，回头再打给你。",
+					"再见。(嘟)",
+					""
+				]
+			},
+			{
+				"id": 232,
+				"charCount": 30,
+				"strList": [
+					"[9003]",
+					"抱歉……哎？",
+					""
+				]
+			},
+			{
+				"id": 233,
+				"charCount": 64,
+				"strList": [
+					"[9003]",
+					"不，不！那只是我姐姐！",
+					"人家还没有男朋友呢。",
+					""
+				]
+			},
+			{
+				"id": 234,
+				"charCount": 52,
+				"strList": [
+					"[9006]",
+					"不过，喜欢的人，确实有啦……",
+					""
+				]
+			},
+			{
+				"id": 235,
+				"charCount": 60,
+				"strList": [
+					"[9002]",
+					"哎？啊！",
+					"没什么！没什么！别在意。[9998]",
+					""
+				]
+			},
+			{
+				"id": 240,
+				"charCount": 50,
+				"strList": [
+					"[9001]",
+					"你说你想去明尼苏达一次？",
+					""
+				]
+			},
+			{
+				"id": 241,
+				"charCount": 50,
+				"strList": [
+					"[9006]",
+					"那……我还没做好心理准备呢……",
+					""
+				]
+			},
+			{
+				"id": 242,
+				"charCount": 108,
+				"strList": [
+					"[9006]",
+					"什么？本地特色？你……你是指……？",
+					"……！",
+					"要送我父母土特产？不劳你这么费心的…… ",
+					""
+				]
+			},
+			{
+				"id": 243,
+				"charCount": 26,
+				"strList": [
+					"[9001]",
+					"嗯？……旅游？",
+					""
+				]
+			},
+			{
+				"id": 244,
+				"charCount": 54,
+				"strList": [
+					"[9002]",
+					"啊……哦……对的对的。",
+					"来场旅游很不错呀。",
+					""
+				]
+			},
+			{
+				"id": 245,
+				"charCount": 88,
+				"strList": [
+					"[9001]",
+					"要我……跟你一起？",
+					"啊，我……有工作，应该是没时间去啦……",
+					" ",
+					""
+				]
+			},
+			{
+				"id": 246,
+				"charCount": 56,
+				"strList": [
+					"[9004]",
+					"(来啊！更坚决地约我呀，别这么快放弃啊！)[9998]",
+					""
+				]
+			},
+			{
+				"id": 247,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 250,
+				"charCount": 50,
+				"strList": [
+					"[9006]",
+					"我练了首曲子。想听吗?",
+					""
+				]
+			},
+			{
+				"id": 251,
+				"charCount": 46,
+				"strList": [
+					"[9002]",
+					"……",
+					"♪羞答答的玫瑰静悄悄地开，",
+					"♪慢慢地燃烧她不承认的情怀。",
+					"♪清风的手呀试探她的等待，",
+					"♪我在暗暗犹豫该不该将她轻轻地摘。",
+					"……",
+					"怎么样？",
+					""
+				]
+			},
+			{
+				"id": 252,
+				"charCount": 24,
+				"strList": [
+					"[9001]",
+					"还得练？",
+					""
+				]
+			},
+			{
+				"id": 253,
+				"charCount": 42,
+				"strList": [
+					"[9003]",
+					"不给你唱了！以后都没了！",
+					""
+				]
+			},
+			{
+				"id": 254,
+				"charCount": 92,
+				"strList": [
+					"[9003]",
+					"(什么啊~真没礼貌！",
+					"我投入了全部身心全部灵魂的演唱，他根本不会欣赏！",
+					"蠢蛋！)[9998]",
+					""
+				]
+			},
+			{
+				"id": 260,
+				"charCount": 30,
+				"strList": [
+					"[9001]",
+					"工作上的事吗？",
+					""
+				]
+			},
+			{
+				"id": 261,
+				"charCount": 82,
+				"strList": [
+					"[9007]",
+					"最近好烦好烦，我老是在犯一些小错误……",
+					""
+				]
+			},
+			{
+				"id": 262,
+				"charCount": 48,
+				"strList": [
+					"[9001]",
+					"通过训练洗刷忧虑？",
+					""
+				]
+			},
+			{
+				"id": 263,
+				"charCount": 44,
+				"strList": [
+					"[9003]",
+					"……！那解决不了任何问题吧！",
+					""
+				]
+			},
+			{
+				"id": 264,
+				"charCount": 78,
+				"strList": [
+					"[9003]",
+					"嗯？我以前这么说过？",
+					"人家和你不一样啦，我那么娇弱。",
+					""
+				]
+			},
+			{
+				"id": 265,
+				"charCount": 72,
+				"strList": [
+					"[9007]",
+					"(你怎么就这么呆呢？!",
+					"别只在那像只猴子一样地傻笑啊！)[9998]",
+					""
+				]
+			},
+			{
+				"id": 266,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 270,
+				"charCount": 74,
+				"strList": [
+					"[9001]",
+					"嗯？下个休息日？你是问我需要买些什么吗？",
+					""
+				]
+			},
+			{
+				"id": 271,
+				"charCount": 40,
+				"strList": [
+					"[9004]",
+					"(嗯……真有什么需要买的么……？)",
+					""
+				]
+			},
+			{
+				"id": 272,
+				"charCount": 82,
+				"strList": [
+					"[9004]",
+					"(这个我有了，那个不需要……",
+					"呀~这明明是我的机会嘛！)",
+					""
+				]
+			},
+			{
+				"id": 273,
+				"charCount": 64,
+				"strList": [
+					"[9001]",
+					"嗯？没什么要买也无妨？",
+					""
+				]
+			},
+			{
+				"id": 274,
+				"charCount": 56,
+				"strList": [
+					"[9003]",
+					"等等，等等，",
+					"我想起来了！",
+					""
+				]
+			},
+			{
+				"id": 275,
+				"charCount": 74,
+				"strList": [
+					"[9002]",
+					"罐……罐头！",
+					"嗯……是猫的，猫粮罐头！",
+					"我有养一只猫的，我没告诉过你吗？",
+					""
+				]
+			},
+			{
+				"id": 276,
+				"charCount": 118,
+				"strList": [
+					"[9002]",
+					"(其实我没养过猫呢……那罐头就送给邻居家那只猫好了……我在搞什么飞机啊…?)[9998]",
+					""
+				]
+			},
+			{
+				"id": 277,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 278,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 280,
+				"charCount": 52,
+				"strList": [
+					"[9004]",
+					"我说……你目前没对象吧？",
+					""
+				]
+			},
+			{
+				"id": 281,
+				"charCount": 90,
+				"strList": [
+					"[9001]",
+					"啊？你……你已经有在意的人了？",
+					"就……就是说，你已经有喜欢的人了吗？",
+					""
+				]
+			},
+			{
+				"id": 282,
+				"charCount": 98,
+				"strList": [
+					"[9003]",
+					"(什……什么呀~我啊，就在你的面前啊！",
+					"为什么你还想着其他的女生啊！)",
+					""
+				]
+			},
+			{
+				"id": 283,
+				"charCount": 24,
+				"strList": [
+					"[9006]",
+					"哎……",
+					"我？",
+					""
+				]
+			},
+			{
+				"id": 284,
+				"charCount": 80,
+				"strList": [
+					"[9003]",
+					"什……说……喂！",
+					"你……你在说什么呢！？",
+					"咱……咱们不谈这个了！[9998]",
+					""
+				]
+			},
+			{
+				"id": 285,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 290,
+				"charCount": 110,
+				"strList": [
+					"[9006]",
+					"嗯?我……我的三围？我有说过“猜到就告诉给你”这种话？",
+					"是……是这样吗？那……好吧……也行吧……",
+					""
+				]
+			},
+			{
+				"id": 291,
+				"charCount": 84,
+				"strList": [
+					"[9006]",
+					"(呜……一想到他看着我的眼神，",
+					"我的脸就会变得好烫……)",
+					""
+				]
+			},
+			{
+				"id": 292,
+				"charCount": 56,
+				"strList": [
+					"[9006]",
+					"嗯，遗憾啊。",
+					"一个猜错了。",
+					"哎？“哪个猜错了”？",
+					""
+				]
+			},
+			{
+				"id": 293,
+				"charCount": 86,
+				"strList": [
+					"[9003]",
+					"呀！这种事很害羞的呢！",
+					"不能说的哟！",
+					"请自己去想吧！[9998]",
+					""
+				]
+			},
+			{
+				"id": 294,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 300,
+				"charCount": 28,
+				"strList": [
+					"[9001]",
+					"我的身高？165cm。",
+					""
+				]
+			},
+			{
+				"id": 301,
+				"charCount": 62,
+				"strList": [
+					"[9003]",
+					"体重？不行！",
+					"那是绝对的秘密！",
+					""
+				]
+			},
+			{
+				"id": 302,
+				"charCount": 100,
+				"strList": [
+					"[9006]",
+					"如果……如果你实在想知道的话，也可以告诉你。",
+					"那……代价是……是……",
+					""
+				]
+			},
+			{
+				"id": 303,
+				"charCount": 58,
+				"strList": [
+					"[9001]",
+					"哎？“既然是秘密就算了”？",
+					""
+				]
+			},
+			{
+				"id": 304,
+				"charCount": 100,
+				"strList": [
+					"[9002]",
+					"哦对的对的对的，这就是个绝对的秘密。",
+					"那么，实在是不凑巧，真是太遗憾了呢。[9998]",
+					""
+				]
+			},
+			{
+				"id": 305,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 310,
+				"charCount": 106,
+				"strList": [
+					"[9006]",
+					"那……那个……",
+					"记得你上次说的，网……网络游戏？我想试试……",
+					""
+				]
+			},
+			{
+				"id": 311,
+				"charCount": 22,
+				"strList": [
+					"[9006]",
+					"啊……好。",
+					""
+				]
+			},
+			{
+				"id": 312,
+				"charCount": 52,
+				"strList": [
+					"[9003]",
+					"怎么这么多？",
+					"嗯……哎？嗯？",
+					"……？？？",
+					""
+				]
+			},
+			{
+				"id": 313,
+				"charCount": 110,
+				"strList": [
+					"[9007]",
+					"啊……谢谢……",
+					"看起来有那么一点难…",
+					"[9015]",
+					"(我在说什么？“一点”？他说得我完全没听懂呢……)",
+					""
+				]
+			},
+			{
+				"id": 314,
+				"charCount": 78,
+				"strList": [
+					"[9001]",
+					"(如果两个人没有共同的爱好是不行的呀……)[9998]",
+					""
+				]
+			},
+			{
+				"id": 315,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 320,
+				"charCount": 58,
+				"strList": [
+					"[9001]",
+					"嗯？这条手链？违反了军规？",
+					""
+				]
+			},
+			{
+				"id": 321,
+				"charCount": 50,
+				"strList": [
+					"[9003]",
+					"没……没事啦！我只是个后勤人员嘛！",
+					""
+				]
+			},
+			{
+				"id": 322,
+				"charCount": 72,
+				"strList": [
+					"[9003]",
+					"是……是吗？",
+					"和你的手链是同一个品牌？",
+					"真的？我真……真的不知道呢……",
+					""
+				]
+			},
+			{
+				"id": 323,
+				"charCount": 92,
+				"strList": [
+					"[9003]",
+					"巧……巧合吧？",
+					"可能是设计有些相似吧。",
+					"纯属巧合啊！",
+					""
+				]
+			},
+			{
+				"id": 324,
+				"charCount": 98,
+				"strList": [
+					"[9003]",
+					"我当时想着：“这东西可以嘛~”，就买了。",
+					"没想到正巧和你的是一个品牌！[9998]",
+					""
+				]
+			},
+			{
+				"id": 325,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 330,
+				"charCount": 76,
+				"strList": [
+					"[9002]",
+					"噢，对了！教你做菜，答应过的，有吧？",
+					""
+				]
+			},
+			{
+				"id": 331,
+				"charCount": 32,
+				"strList": [
+					"[9001]",
+					"哎？去你家？",
+					""
+				]
+			},
+			{
+				"id": 332,
+				"charCount": 40,
+				"strList": [
+					"[9005]",
+					"对……确实！",
+					"去你家好一些。",
+					""
+				]
+			},
+			{
+				"id": 333,
+				"charCount": 110,
+				"strList": [
+					"[9005]",
+					"(人生巅峰大事啊！",
+					"当初那个跟他许下承诺的我，干得漂亮啊！",
+					"这是我人生的伟大胜利啊，",
+					"真该给自己颁一个鹰翼金十字勋章！)",
+					""
+				]
+			},
+			{
+				"id": 334,
+				"charCount": 34,
+				"strList": [
+					"[9001]",
+					"嗯？下个休息日？",
+					""
+				]
+			},
+			{
+				"id": 335,
+				"charCount": 26,
+				"strList": [
+					"[9002]",
+					"I'll be there!",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 336,
+				"charCount": 66,
+				"strList": [
+					"[9006]",
+					"想要吃什么？",
+					"你帮忙准备一下食材吧！[9998]",
+					""
+				]
+			},
+			{
+				"id": 340,
+				"charCount": 66,
+				"strList": [
+					"[9003]",
+					"别，不行啦！",
+					"现在工作时间，怎么可以叫我“辛辛”……",
+					"",
+					""
+				]
+			},
+			{
+				"id": 341,
+				"charCount": 24,
+				"strList": [
+					"[9006]",
+					"嗯，也没別人？所以可以？",
+					""
+				]
+			},
+			{
+				"id": 342,
+				"charCount": 104,
+				"strList": [
+					"[9003]",
+					"那不是重点！重点是你不能破坏纪律！",
+					"这是个原则问题！",
+					""
+				]
+			},
+			{
+				"id": 343,
+				"charCount": 92,
+				"strList": [
+					"[9003]",
+					"“陟罚臧否，不宜异同”，",
+					"所以，现在，你要接受惩罚！",
+					""
+				]
+			},
+			{
+				"id": 344,
+				"charCount": 28,
+				"strList": [
+					"[9003]",
+					"闭上眼睛！",
+					""
+				]
+			},
+			{
+				"id": 345,
+				"charCount": 18,
+				"strList": [
+					"[9006]",
+					"……",
+					"…………",
+					""
+				]
+			},
+			{
+				"id": 346,
+				"charCount": 62,
+				"strList": [
+					"[9006]",
+					"这次就这样吧。",
+					"……",
+					"什么，“紧紧握住手算什么惩罚？”",
+					""
+				]
+			},
+			{
+				"id": 347,
+				"charCount": 130,
+				"strList": [
+					"[9003]",
+					"不要多嘴多问，军规里白纸黑字地写着呢！",
+					"而这，就是你应受的惩罚！[9998]",
+					""
+				]
+			},
+			{
+				"id": 348,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 350,
+				"charCount": 74,
+				"strList": [
+					"[9007]",
+					"唉，永远有那么多工作要忙，",
+					"每天回到家时都已经很晚了。",
+					""
+				]
+			},
+			{
+				"id": 351,
+				"charCount": 62,
+				"strList": [
+					"[9001]",
+					"嗯？你开车送我？",
+					"这……这么突然？",
+					""
+				]
+			},
+			{
+				"id": 352,
+				"charCount": 68,
+				"strList": [
+					"[9005]",
+					"顾虑？没有的！",
+					"完全没有顾虑的，真的！",
+					""
+				]
+			},
+			{
+				"id": 353,
+				"charCount": 60,
+				"strList": [
+					"[9006]",
+					"可是，那个……就我们……两个人……好害羞……TODO",
+					""
+				]
+			},
+			{
+				"id": 354,
+				"charCount": 80,
+				"strList": [
+					"[9003]",
+					"是……想必是辆好车吧？如果是辆奇奇怪怪的车就算了哦！[9998]",
+					" ",
+					""
+				]
+			},
+			{
+				"id": 360,
+				"charCount": 72,
+				"strList": [
+					"[9001]",
+					"什么？",
+					"“一个人要多有钱才会喜欢他？”",
+					""
+				]
+			},
+			{
+				"id": 361,
+				"charCount": 82,
+				"strList": [
+					"[9004]",
+					"你……你应该没有那么多钱，是吧?",
+					"不过，也没关系。就算没有钱也……",
+					""
+				]
+			},
+			{
+				"id": 362,
+				"charCount": 50,
+				"strList": [
+					"[9001]",
+					"哎？我以前不是这么说的？",
+					""
+				]
+			},
+			{
+				"id": 363,
+				"charCount": 88,
+				"strList": [
+					"[9006]",
+					"就是啊……",
+					"腰缠万贯……没有也无妨。",
+					""
+				]
+			},
+			{
+				"id": 364,
+				"charCount": 60,
+				"strList": [
+					"[9003]",
+					"你目前还差得远呢！",
+					"继续努力吧！[9998]",
+					""
+				]
+			},
+			{
+				"id": 365,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 370,
+				"charCount": 60,
+				"strList": [
+					"[9004]",
+					"啊，都这么晚了，",
+					"完全没感觉到呢。",
+					""
+				]
+			},
+			{
+				"id": 371,
+				"charCount": 80,
+				"strList": [
+					"嗯？",
+					"[9003]",
+					"别……别说傻话了，开始训练吧！真是的！[9999]",
+					""
+				]
+			},
+			{
+				"id": 372,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 400,
+				"charCount": 198,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"允许3次失误——当然了，失误越少评级越高。",
+					"时间不在考量范围之内，所以建议谨慎行事。[9999]",
+					""
+				]
+			},
+			{
+				"id": 410,
+				"charCount": 212,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"耗时越短评级越高。除手榴弹以外，弹药没有使用限制，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 420,
+				"charCount": 192,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"武器只有手榴弹和手枪。耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 430,
+				"charCount": 172,
+				"strList": [
+					"本次训练的目标是物资收集。",
+					"收集率越高评级越高。[9999]",
+					"相比于消灭敌人，请优先考虑收集物资。",
+					""
+				]
+			},
+			{
+				"id": 440,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是营救战俘。",
+					"战俘解救率越高评级越高。",
+					"救出战俘可以增强我军的战斗力。",
+					"相比于消灭敌人，请优先考虑营救战俘。[9999]",
+					""
+				]
+			},
+			{
+				"id": 450,
+				"charCount": 218,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"允许3次失误——当然了，失误越少评级越高。",
+					"时间不在考量范围之内，所以建议谨慎行事。[9999]",
+					""
+				]
+			},
+			{
+				"id": 460,
+				"charCount": 214,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"耗时越短评级越高。除手榴弹以外，弹药没有使用限制，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 470,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"武器只有手榴弹和手枪。耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 480,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是在一定时间内不失误。",
+					"躲避掉落的障碍物，在这段时间内不受伤。",
+					"坚持时间越长评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 490,
+				"charCount": 216,
+				"strList": [
+					"本次训练的目标是清除障碍物。",
+					"请摧毁战场内的全部障碍物。",
+					"耗时越短评级越高。",
+					"障碍物中藏有弹药，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 500,
+				"charCount": 172,
+				"strList": [
+					"本次训练的目标是收集藏在障碍物中的物资。",
+					"请收集战场内障碍物中隐藏的全部物资。",
+					"限制时间内收集的物资越多，评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 510,
+				"charCount": 206,
+				"strList": [
+					"本次训练的目标是消灭敌空军。",
+					"请消灭战场内所有的敌方航空器。",
+					"耗时越短评级越高。请善加利用敌人的地面设备。[9999]",
+					""
+				]
+			},
+			{
+				"id": 520,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"别让球落地，搬运到目的地的球越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 530,
+				"charCount": 198,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"球只有一颗，耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 540,
+				"charCount": 150,
+				"strList": [
+					"本次训练的目标是收集球。",
+					"请用射击推动矿车去接球。",
+					"接到的球越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 550,
+				"charCount": 188,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"球只有一颗，击球次数越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 560,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是移动电梯。",
+					"请用射击大型电梯，将其移动到目的地。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 570,
+				"charCount": 168,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请肃清电梯上的敌人，向目的地挺进。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 580,
+				"charCount": 182,
+				"strList": [
+					"本次训练的目标是摧毁敌军战力。",
+					"请在限定时间内尽可能多地破坏敌军武器。",
+					"破坏数量越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 590,
+				"charCount": 234,
+				"strList": [
+					"本次训练的目标是保卫粮食安全。",
+					"请在限定时间内尽可能采集食材。",
+					"食材采集越多评级越高。",
+					"当心菌子，它们会暂时令身体难以控制！[9999]",
+					""
+				]
+			},
+			{
+				"id": 600,
+				"charCount": 174,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"充分利用战场上方的立足点。",
+					"达成目标耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 610,
+				"charCount": 158,
+				"strList": [
+					"本次训练的目标是确保球不落地。",
+					"请在限定时间内确保尽可能多的球不落地。[9999]",
+					"坚持的时间越长、未落地的球越多，评级越高。",
+					""
+				]
+			},
+			{
+				"id": 620,
+				"charCount": 254,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请在限定时间内突破战线。",
+					"只能使用近战攻击。",
+					"达成目标耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 630,
+				"charCount": 184,
+				"strList": [
+					"本次训练的目标是摧毁敌军战力。",
+					"请在限定时间内尽可能多地破坏敌军武器。",
+					"破坏数量越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 640,
+				"charCount": 144,
+				"strList": [
+					"本次训练的目标是确保球不落地。",
+					"在时间用完前保住尽可能多的球。",
+					"保住它们越久，评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 650,
+				"charCount": 158,
+				"strList": [
+					"本次训练的目标是增强运动能力。",
+					"请在限定时间内尽可能地跳。",
+					"滞空时间越长评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 660,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 670,
+				"charCount": 210,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"立足点很不稳定，请小心！[9999]",
+					""
+				]
+			},
+			{
+				"id": 680,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是提升时机把控能力。",
+					"请尽可能迟地躲避逼近的大型雪橇。",
+					"躲避时离雪橇越近评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 690,
+				"charCount": 262,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"另外，任何武器都不能使用。",
+					"只能通过巨灵战车的攻击手段消灭敌人。[9999]",
+					""
+				]
+			},
+			{
+				"id": 700,
+				"charCount": 154,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请在限定时间内到达目的地。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 710,
+				"charCount": 208,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"由于立足点会慢慢下沉，所以请在战斗中不断走动。[9999]",
+					""
+				]
+			},
+			{
+				"id": 720,
+				"charCount": 230,
+				"strList": [
+					"本次训练的目标是保卫粮食安全。",
+					"请在限定时间内尽可能采集食材。",
+					"食材采集越多评级越高。",
+					"当心青蛙，它们会暂时令身体难以控制！[9999]",
+					""
+				]
+			},
+			{
+				"id": 760,
+				"charCount": 340,
+				"strList": [
+					"本训练科目看的是在失误而失败前能将流程推进到多远。",
+					"最后将根据完成的任务数得到评级。",
+					"除手榴弹外的弹药没有使用限制。",
+					"由于除了手上武器，无法存储备用的武器，如何运用随机应变的战术将是过关的关键。[9999]",
+					""
+				]
+			},
+			{
+				"id": 800,
+				"charCount": 40,
+				"strList": [
+					"这样的训练科目对你来说没问题，是吧？",
+					""
+				]
+			},
+			{
+				"id": 810,
+				"charCount": 36,
+				"strList": [
+					"你能搞定这项训练科目吗？",
+					""
+				]
+			},
+			{
+				"id": 1800,
+				"charCount": 58,
+				"strList": [
+					"[9001]",
+					"好了？",
+					"记住，集中全部精力，严守战斗要领！",
+					""
+				]
+			},
+			{
+				"id": 1801,
+				"charCount": 90,
+				"strList": [
+					"[9003]",
+					"我说过了，我才没有担心什么的！",
+					"只是你完成任务后就赶紧回来吧！",
+					""
+				]
+			},
+			{
+				"id": 1802,
+				"charCount": 72,
+				"strList": [
+					"[9006]",
+					"我好不容易泡好的茶又要凉了，",
+					"真是的……[9999]",
+					""
+				]
+			},
+			{
+				"id": 1803,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1810,
+				"charCount": 48,
+				"strList": [
+					"[9014]",
+					"(哇哦~好帅啊~)",
+					""
+				]
+			},
+			{
+				"id": 1811,
+				"charCount": 74,
+				"strList": [
+					"[9003]",
+					"……！",
+					"你还在看什么呢？如果准备好了，就快行动！",
+					""
+				]
+			},
+			{
+				"id": 1812,
+				"charCount": 82,
+				"strList": [
+					"[9001]",
+					"嗯？训练评价？",
+					"嗯……那个……",
+					"还不错……对你来说……",
+					""
+				]
+			},
+			{
+				"id": 1813,
+				"charCount": 112,
+				"strList": [
+					"[9004]",
+					"啊，我并没有说表现的不好或其他的！",
+					"[9003]",
+					"早点开始下次的训练吧！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1814,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1815,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1820,
+				"charCount": 78,
+				"strList": [
+					"[9003]",
+					"天哪，你在做什么？",
+					"都没集中精力，怎么能成功呢！",
+					""
+				]
+			},
+			{
+				"id": 1821,
+				"charCount": 78,
+				"strList": [
+					"[9003]",
+					"好，我们就来好好查查训练中暴露出了哪些薄弱点。",
+					""
+				]
+			},
+			{
+				"id": 1822,
+				"charCount": 102,
+				"strList": [
+					"[9006]",
+					"…嗯？当，当然！",
+					"就我们俩！一对一辅导！",
+					"[9003]",
+					"快点！时间不等人！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1823,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1830,
+				"charCount": 24,
+				"strList": [
+					"[9006]",
+					"干得不错……",
+					""
+				]
+			},
+			{
+				"id": 1831,
+				"charCount": 92,
+				"strList": [
+					"[9003]",
+					"可不能给你太多阳光，",
+					"不然都不知道你会灿烂到哪里去。",
+					""
+				]
+			},
+			{
+				"id": 1832,
+				"charCount": 44,
+				"strList": [
+					"[9001]",
+					"嗯？我的教法很不错？",
+					""
+				]
+			},
+			{
+				"id": 1833,
+				"charCount": 70,
+				"strList": [
+					"[9006]",
+					"什……什么话啊，",
+					"干……干嘛夸我？",
+					""
+				]
+			},
+			{
+				"id": 1834,
+				"charCount": 102,
+				"strList": [
+					"[9003]",
+					"哼，谁说我高兴了？谁说我爱听了？",
+					"这不分明别有用心嘛，真是的！",
+					""
+				]
+			},
+			{
+				"id": 1835,
+				"charCount": 102,
+				"strList": [
+					"[9006]",
+					"(什么嘛，这不是挺懂我嘛。",
+					"恭喜你哦，以后还要继续努力哟。)[9999]",
+					""
+				]
+			},
+			{
+				"id": 1836,
+				"charCount": 4,
+				"strList": [
+					" ",
+					"",
+					""
+				]
+			}
+		]
+	},
+	{
+		"blockCount": 196,
+		"blockList": [
+			{
+				"id": 110,
+				"charCount": 54,
+				"strList": [
+					"[9005]",
+					"哦？辛苦了，辛苦了。",
+					"今天也还要训练吗？",
+					""
+				]
+			},
+			{
+				"id": 111,
+				"charCount": 102,
+				"strList": [
+					"[9005]",
+					"都晋升到这个级别了，",
+					"还坚持来训练……真了不起！",
+					""
+				]
+			},
+			{
+				"id": 112,
+				"charCount": 52,
+				"strList": [
+					"[9006]",
+					"那个……今天可以和你聊一会儿吗？",
+					""
+				]
+			},
+			{
+				"id": 113,
+				"charCount": 124,
+				"strList": [
+					"[9004]",
+					"对……对不起！",
+					"没那时间可以浪费呢！",
+					"[9001]",
+					"我现在就去准备，马上开始训练！[9999]",
+					""
+				]
+			},
+			{
+				"id": 114,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 115,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 200,
+				"charCount": 52,
+				"strList": [
+					"[9002]",
+					"好的！",
+					"我们确实也该休息休息了。",
+					""
+				]
+			},
+			{
+				"id": 201,
+				"charCount": 76,
+				"strList": [
+					"[9002]",
+					"我给你泡了些茶。",
+					"这里还有些蛋糕哦……",
+					"[9006]",
+					"……我……我亲自烤的……",
+					""
+				]
+			},
+			{
+				"id": 202,
+				"charCount": 110,
+				"strList": [
+					"[9004]",
+					"啊，你不太能吃甜的？",
+					"但是，我做的不是很甜……",
+					"就一小口，可以吧？",
+					"[9998]",
+					""
+				]
+			},
+			{
+				"id": 203,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 210,
+				"charCount": 94,
+				"strList": [
+					"[9006]",
+					"你觉得，就我们现在这样并排着走，",
+					"别人看起来，是不是像我们俩在恋爱啊？",
+					""
+				]
+			},
+			{
+				"id": 211,
+				"charCount": 68,
+				"strList": [
+					"[9006]",
+					"那个……这个……我看我们的年龄……也挺合适……吧？",
+					""
+				]
+			},
+			{
+				"id": 212,
+				"charCount": 40,
+				"strList": [
+					"[9006]",
+					"下次我们再走一起的时候……",
+					""
+				]
+			},
+			{
+				"id": 213,
+				"charCount": 60,
+				"strList": [
+					"[9004]",
+					"啊？一起去跑步？",
+					"可……可是那气氛未免……",
+					""
+				]
+			},
+			{
+				"id": 214,
+				"charCount": 98,
+				"strList": [
+					"[9001]",
+					"没没没，没关系的。",
+					"当然愿意和你一起！",
+					"我会为你擦汗的！[9998]",
+					""
+				]
+			},
+			{
+				"id": 215,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 220,
+				"charCount": 74,
+				"strList": [
+					"[9006]",
+					"哇~怎么这么多花啊？",
+					"嗯？今天是什么特别的日子吗？",
+					""
+				]
+			},
+			{
+				"id": 221,
+				"charCount": 82,
+				"strList": [
+					"[9005]",
+					"呃，没有啊！怎么可能！",
+					"我非常开心！",
+					"那么今天就当作是纪念日吧！",
+					""
+				]
+			},
+			{
+				"id": 222,
+				"charCount": 60,
+				"strList": [
+					"[9001]",
+					"啊？你是说，这样的话会变得天天都是纪念日……？",
+					""
+				]
+			},
+			{
+				"id": 223,
+				"charCount": 24,
+				"strList": [
+					"[9003]",
+					"那不挺好的！",
+					""
+				]
+			},
+			{
+				"id": 224,
+				"charCount": 88,
+				"strList": [
+					"[9002]",
+					"纪念日多了的话，就能每天都快乐、每天都幸福了，你说是吧？",
+					""
+				]
+			},
+			{
+				"id": 230,
+				"charCount": 70,
+				"strList": [
+					"[9004]",
+					"那个……",
+					"最近你给我的电话少了很多，是吧？",
+					""
+				]
+			},
+			{
+				"id": 231,
+				"charCount": 44,
+				"strList": [
+					"[9004]",
+					"……哎？",
+					"因为我们每天都能在这里见面？",
+					""
+				]
+			},
+			{
+				"id": 232,
+				"charCount": 38,
+				"strList": [
+					"[9003]",
+					"见面归见面，",
+					"电话归电话！",
+					""
+				]
+			},
+			{
+				"id": 233,
+				"charCount": 110,
+				"strList": [
+					"[9006]",
+					"一直在等你电话，等啊等啊……",
+					"不过，看着手机等你电话，心怦怦直跳，倒是件很有趣的事情。",
+					""
+				]
+			},
+			{
+				"id": 234,
+				"charCount": 76,
+				"strList": [
+					"[9001]",
+					"啊？你不给我打电话就是为了让我“怦怦怦怦”？",
+					""
+				]
+			},
+			{
+				"id": 235,
+				"charCount": 54,
+				"strList": [
+					"[9003]",
+					"我……我不要这样嘛！",
+					"请好好地给我打电话啦！[9998]",
+					""
+				]
+			},
+			{
+				"id": 236,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 240,
+				"charCount": 46,
+				"strList": [
+					"[9001]",
+					"你下次什么时候回家休假呀？",
+					""
+				]
+			},
+			{
+				"id": 241,
+				"charCount": 74,
+				"strList": [
+					"[9002]",
+					"……这……这么巧啊！",
+					"我那天刚好休息耶！",
+					""
+				]
+			},
+			{
+				"id": 242,
+				"charCount": 60,
+				"strList": [
+					"[9006]",
+					"那……那个，可以的话，我想和你一起去！",
+					""
+				]
+			},
+			{
+				"id": 243,
+				"charCount": 48,
+				"strList": [
+					"[9001]",
+					"咦？为什么我也跟去？",
+					"额……",
+					""
+				]
+			},
+			{
+				"id": 244,
+				"charCount": 60,
+				"strList": [
+					"[9006]",
+					"那个……那个……",
+					"我想和你父母见个面打个招呼……",
+					""
+				]
+			},
+			{
+				"id": 245,
+				"charCount": 62,
+				"strList": [
+					"[9003]",
+					"啊？为什么？",
+					"为什么我不能去啊？",
+					"You're so mean...[9998]",
+					""
+				]
+			},
+			{
+				"id": 246,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 250,
+				"charCount": 98,
+				"strList": [
+					"[9004]",
+					"那个，那个……我有个请求！",
+					"这张CD的……这首！",
+					"请问你能不能唱一下这首歌？",
+					""
+				]
+			},
+			{
+				"id": 251,
+				"charCount": 76,
+				"strList": [
+					"[9002]",
+					"咦？这有什么不好意思的啊！",
+					"没事的，请开始吧！",
+					""
+				]
+			},
+			{
+				"id": 252,
+				"charCount": 28,
+				"strList": [
+					"[9006]",
+					"……",
+					"♪我爱你，是多么清楚、多么坚固的信仰；",
+					"♪我爱你，是多么温暖、多么勇敢的力量。",
+					"♪我不管心多伤，不管爱多慌，",
+					"♪不管别人怎么想。",
+					"♪爱是一种信仰，把我，带到你的身旁。",
+					"……",
+					""
+				]
+			},
+			{
+				"id": 253,
+				"charCount": 100,
+				"strList": [
+					"[9006]",
+					"哇~天籁啊！",
+					"要是从此每天都能听到这样的歌声，",
+					"简直每天都活在梦境里！",
+					""
+				]
+			},
+			{
+				"id": 254,
+				"charCount": 58,
+				"strList": [
+					"[9001]",
+					"嗯？不可能每天都唱？",
+					""
+				]
+			},
+			{
+				"id": 255,
+				"charCount": 76,
+				"strList": [
+					"[9002]",
+					"呃，没……没关系！",
+					"现在，我就用这台摄像机，",
+					"给你完美地录下来！",
+					""
+				]
+			},
+			{
+				"id": 256,
+				"charCount": 94,
+				"strList": [
+					"[9003]",
+					"啊，啊~不行！",
+					"我不会把存储卡交给你的！",
+					"那可是我的宝贝啊！[9998]",
+					""
+				]
+			},
+			{
+				"id": 257,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 258,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 259,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 260,
+				"charCount": 38,
+				"strList": [
+					"[9002]",
+					"工作是吗？",
+					"是挺忙的……",
+					""
+				]
+			},
+			{
+				"id": 261,
+				"charCount": 32,
+				"strList": [
+					"[9002]",
+					"不过我是很乐在其中的！",
+					""
+				]
+			},
+			{
+				"id": 262,
+				"charCount": 68,
+				"strList": [
+					"[9002]",
+					"甚至可以说，",
+					"我每天就盼着享受上班时间呢。",
+					""
+				]
+			},
+			{
+				"id": 263,
+				"charCount": 80,
+				"strList": [
+					"[9002]",
+					"…不是！当然不是啦！",
+					"就算不能和你聊天，我也非常喜欢这份工作。",
+					"但是……",
+					""
+				]
+			},
+			{
+				"id": 264,
+				"charCount": 98,
+				"strList": [
+					"[9006]",
+					"有话没处聊，确实还是太寂寥了。",
+					"……你会……讨厌跟我说话吗？[9998]",
+					""
+				]
+			},
+			{
+				"id": 270,
+				"charCount": 54,
+				"strList": [
+					"[9001]",
+					"什么？你想看看我的猫猫？",
+					"就下个休息日？",
+					""
+				]
+			},
+			{
+				"id": 271,
+				"charCount": 36,
+				"strList": [
+					"[9004]",
+					"……啊，",
+					"对不起，对不起，请原谅我！",
+					""
+				]
+			},
+			{
+				"id": 272,
+				"charCount": 88,
+				"strList": [
+					"[9004]",
+					"那……那个，那只猫是个谎话！",
+					"那个，我只是想……一起去买东西……我们两个……",
+					"所以就……",
+					""
+				]
+			},
+			{
+				"id": 273,
+				"charCount": 68,
+				"strList": [
+					"[9007]",
+					"啊……是，说谎不对……",
+					"可以……可以原谅我吗？",
+					""
+				]
+			},
+			{
+				"id": 274,
+				"charCount": 60,
+				"strList": [
+					"[9006]",
+					"呃……真的吗？",
+					"真的能原谅我？！",
+					""
+				]
+			},
+			{
+				"id": 275,
+				"charCount": 82,
+				"strList": [
+					"...",
+					"[9005]",
+					"我没哭，我没哭！",
+					"谢谢你原谅我，",
+					"我再也不会说谎了。[9998]",
+					""
+				]
+			},
+			{
+				"id": 280,
+				"charCount": 42,
+				"strList": [
+					"[9001]",
+					"哎？喜欢的人？",
+					"……！",
+					""
+				]
+			},
+			{
+				"id": 281,
+				"charCount": 34,
+				"strList": [
+					"[9005]",
+					"有——",
+					"啊不，没有没有没有！",
+					""
+				]
+			},
+			{
+				"id": 282,
+				"charCount": 58,
+				"strList": [
+					"[9005]",
+					"哎？",
+					"我看上去喜欢独处，这个意思？",
+					"怎么可能，没有的事！",
+					""
+				]
+			},
+			{
+				"id": 283,
+				"charCount": 84,
+				"strList": [
+					"[9004]",
+					"每天过得都一样，一个人……",
+					"是啊，我们都是……十分寂寞的呢……",
+					""
+				]
+			},
+			{
+				"id": 284,
+				"charCount": 40,
+				"strList": [
+					"[9006]",
+					"没……没有的事。",
+					"我……我什么时候都可以陪你的哦。",
+					""
+				]
+			},
+			{
+				"id": 285,
+				"charCount": 104,
+				"strList": [
+					"[9006]",
+					"休息日还是要两个人一起过好：",
+					"听听喜欢的歌曲，一起吃个饭……",
+					"然后然后！晚上……",
+					""
+				]
+			},
+			{
+				"id": 286,
+				"charCount": 46,
+				"strList": [
+					"[9001]",
+					"啊，是，是！对不起！",
+					"我没有听见你在刚刚在说什么！",
+					""
+				]
+			},
+			{
+				"id": 287,
+				"charCount": 68,
+				"strList": [
+					"[9006]",
+					"啊~我会认真听的！",
+					"请你别走，别走呀！[9998]",
+					""
+				]
+			},
+			{
+				"id": 288,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 290,
+				"charCount": 100,
+				"strList": [
+					"[9001]",
+					"啊，哈？我的三围吗？",
+					"上次的竞猜还在继续！",
+					"今天这次请正确回答哦！",
+					""
+				]
+			},
+			{
+				"id": 291,
+				"charCount": 126,
+				"strList": [
+					"[9002]",
+					"……接……接近啦……！",
+					"真的，就差一丁点儿了！",
+					"好吧！给你捡个大便宜！",
+					"告诉你正确答案哦！",
+					""
+				]
+			},
+			{
+				"id": 292,
+				"charCount": 54,
+				"strList": [
+					"[9006]",
+					"准备好了吗？",
+					"正确答案嘛……正确答案是……",
+					""
+				]
+			},
+			{
+				"id": 293,
+				"charCount": 72,
+				"strList": [
+					"[9001]",
+					"哎？你认为我不会告诉你？",
+					"不会的，没有的事。",
+					""
+				]
+			},
+			{
+				"id": 294,
+				"charCount": 76,
+				"strList": [
+					"[9006]",
+					"……只是有点不好意思，好吧。",
+					"那个……",
+					"(80, 56, 89)！",
+					""
+				]
+			},
+			{
+				"id": 295,
+				"charCount": 68,
+				"strList": [
+					"[9006]",
+					"噗……人生中最不好意思的时刻……",
+					""
+				]
+			},
+			{
+				"id": 296,
+				"charCount": 104,
+				"strList": [
+					"[9006]",
+					"哎！你不要这样盯着我啊！",
+					"不管你怎么用力看都不会看到衣服里面的啦！[9998]",
+					""
+				]
+			},
+			{
+				"id": 297,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 298,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 299,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 300,
+				"charCount": 82,
+				"strList": [
+					"[9004]",
+					"哈？体……体重啊？",
+					"一定要我说吗？",
+					"……你好狠、好毒、好专横……",
+					""
+				]
+			},
+			{
+				"id": 301,
+				"charCount": 28,
+				"strList": [
+					"[9001]",
+					"没有！我什么都没说！",
+					""
+				]
+			},
+			{
+				"id": 302,
+				"charCount": 54,
+				"strList": [
+					"[9006]",
+					"那个……那个……",
+					"四……十……八……",
+					"48kg。",
+					""
+				]
+			},
+			{
+				"id": 303,
+				"charCount": 104,
+				"strList": [
+					"[9006]",
+					"……那个……实在不好说出口……",
+					"你不觉得你也要为此……负一定责任吗？",
+					""
+				]
+			},
+			{
+				"id": 304,
+				"charCount": 114,
+				"strList": [
+					"[9005]",
+					"哎？一起吃饭？",
+					"好哒！非常乐意！",
+					"哎？那个我不在乎了啦！能一起吃饭就行了。[9998]",
+					""
+				]
+			},
+			{
+				"id": 305,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 310,
+				"charCount": 102,
+				"strList": [
+					"[9001]",
+					"谢谢你前些日子邀我玩那个游戏，",
+					"不过我现在有些想问问你的，方便说吗？",
+					""
+				]
+			},
+			{
+				"id": 311,
+				"charCount": 52,
+				"strList": [
+					"[9003]",
+					"那个……为什么你要在游戏中使用一名女角色呢？",
+					""
+				]
+			},
+			{
+				"id": 312,
+				"charCount": 76,
+				"strList": [
+					"[9003]",
+					"我想的是，我们在游戏里，",
+					"也能看着像一对……就好了……",
+					""
+				]
+			},
+			{
+				"id": 313,
+				"charCount": 86,
+				"strList": [
+					"[9001]",
+					"哎？网络游戏原来是这样的啊？",
+					"唉呀……我一个BEGINNER还这么多嘴，冒昧了……",
+					""
+				]
+			},
+			{
+				"id": 314,
+				"charCount": 64,
+				"strList": [
+					"[9002]",
+					"这样说来……我是不是应该用一名男性角色呢？",
+					""
+				]
+			},
+			{
+				"id": 315,
+				"charCount": 56,
+				"strList": [
+					"[9001]",
+					"哎？我用个女角色更好？",
+					""
+				]
+			},
+			{
+				"id": 316,
+				"charCount": 60,
+				"strList": [
+					"[9005]",
+					"好……好的！",
+					"那我就一直跟在你后面了！[9998]",
+					""
+				]
+			},
+			{
+				"id": 317,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 320,
+				"charCount": 84,
+				"strList": [
+					"[9006]",
+					"啊？你说这个手链吗？",
+					"我一直都戴着它。",
+					"毕竟跟你那个，能配成一对嘛……",
+					""
+				]
+			},
+			{
+				"id": 321,
+				"charCount": 82,
+				"strList": [
+					"[9004]",
+					"哎？你先前的那个已经丢了？",
+					"呃……那就没法再配成对了。",
+					""
+				]
+			},
+			{
+				"id": 322,
+				"charCount": 86,
+				"strList": [
+					"[9005]",
+					"对了，我买个新的当作礼物送给你吧！",
+					"而且买成对的吧！",
+					""
+				]
+			},
+			{
+				"id": 323,
+				"charCount": 106,
+				"strList": [
+					"[9005]",
+					"哎？不好意思？",
+					"没关系的啦！求你了啦！",
+					"就我们两个人的时候戴也行！好不好嘛？[9998]",
+					""
+				]
+			},
+			{
+				"id": 324,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 325,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 330,
+				"charCount": 76,
+				"strList": [
+					"[9001]",
+					"最近，烹饪手艺怎样了？",
+					"是不是已经超过我了呀？",
+					""
+				]
+			},
+			{
+				"id": 331,
+				"charCount": 54,
+				"strList": [
+					"[9006]",
+					"哎？我的料理别具一格？",
+					"是吗？这样啊！",
+					""
+				]
+			},
+			{
+				"id": 332,
+				"charCount": 90,
+				"strList": [
+					"[9006]",
+					"就算夸我，我也拿不出来什么的哦？",
+					"虽然拿不出来什么啦，不过……不过……",
+					"啊，有了！",
+					"明天开始，我为你做便当好了！",
+					""
+				]
+			},
+			{
+				"id": 333,
+				"charCount": 86,
+				"strList": [
+					"[9005]",
+					"你的胃口很大吧？",
+					"那我会加油的，给你多做一些哟！[9998]",
+					""
+				]
+			},
+			{
+				"id": 334,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 340,
+				"charCount": 48,
+				"strList": [
+					"[9006]",
+					"那……那个……",
+					"现在我是你的部下，所以……",
+					""
+				]
+			},
+			{
+				"id": 341,
+				"charCount": 92,
+				"strList": [
+					"[9006]",
+					"你也可以叫我“辛辛”哦。",
+					"呃……怎么说呢……我想听你这么叫我……",
+					""
+				]
+			},
+			{
+				"id": 342,
+				"charCount": 56,
+				"strList": [
+					"[9006]",
+					"……嗯……",
+					"再叫一次……再这么叫我一次行吗？",
+					""
+				]
+			},
+			{
+				"id": 343,
+				"charCount": 42,
+				"strList": [
+					"[9006]",
+					"哈~",
+					"再叫一次吧？",
+					""
+				]
+			},
+			{
+				"id": 344,
+				"charCount": 40,
+				"strList": [
+					"[9004]",
+					"不愿意了？",
+					"不好意思了？",
+					""
+				]
+			},
+			{
+				"id": 345,
+				"charCount": 84,
+				"strList": [
+					"[9004]",
+					"那就……好吧……",
+					"不过从明天起，请每天叫我一次“辛辛”哦。[9998]",
+					""
+				]
+			},
+			{
+				"id": 350,
+				"charCount": 68,
+				"strList": [
+					"[9002]",
+					"嗯，最近都睡得很好，所以身体挺好的。",
+					""
+				]
+			},
+			{
+				"id": 351,
+				"charCount": 54,
+				"strList": [
+					"[9002]",
+					"那个……感谢你每天都送我回家。",
+					""
+				]
+			},
+			{
+				"id": 352,
+				"charCount": 80,
+				"strList": [
+					"[9001]",
+					"对了，从今天开始，",
+					"作为部下的我开车送你吧。",
+					"开车我可是很拿手的哦。",
+					""
+				]
+			},
+			{
+				"id": 353,
+				"charCount": 66,
+				"strList": [
+					"[9006]",
+					"而且，还是很难得的、只有我们两个人的时间……",
+					""
+				]
+			},
+			{
+				"id": 354,
+				"charCount": 46,
+				"strList": [
+					"[9003]",
+					"哎？没关系的啦！",
+					"我没在看其他地方啊！",
+					""
+				]
+			},
+			{
+				"id": 355,
+				"charCount": 44,
+				"strList": [
+					"[9004]",
+					"你不信？",
+					"怎么这样~[9998]",
+					""
+				]
+			},
+			{
+				"id": 360,
+				"charCount": 72,
+				"strList": [
+					"[9002]",
+					"喜欢的什么样的男性？",
+					"就是现在站在我面前的你……",
+					"这种类型的……",
+					""
+				]
+			},
+			{
+				"id": 361,
+				"charCount": 76,
+				"strList": [
+					"[9004]",
+					"哎？不用这么惊讶吧？",
+					"你不喜欢我吗？",
+					"你讨厌我？！",
+					""
+				]
+			},
+			{
+				"id": 362,
+				"charCount": 62,
+				"strList": [
+					"[9007]",
+					"啊，请原谅我！",
+					"是不是我刚刚那样太突然，把你吓到了？",
+					""
+				]
+			},
+			{
+				"id": 363,
+				"charCount": 76,
+				"strList": [
+					"[9006]",
+					"啊，不过，",
+					"我不是说想现在立刻和你交往之类的……",
+					"并不是那种意思啦……",
+					""
+				]
+			},
+			{
+				"id": 364,
+				"charCount": 68,
+				"strList": [
+					"[9006]",
+					"只是想让你明白我的心意……",
+					"现在应该已经足够了。[9998]",
+					""
+				]
+			},
+			{
+				"id": 370,
+				"charCount": 62,
+				"strList": [
+					"[9001]",
+					"可以去训练了吗？",
+					"是。我准备好了。",
+					""
+				]
+			},
+			{
+				"id": 371,
+				"charCount": 56,
+				"strList": [
+					"[9001]",
+					"那么，请注意安全。",
+					"稍后再聊咯。[9999]",
+					""
+				]
+			},
+			{
+				"id": 400,
+				"charCount": 198,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"允许3次失误——当然了，失误越少评级越高。",
+					"时间不在考量范围之内，所以建议谨慎行事。[9999]",
+					""
+				]
+			},
+			{
+				"id": 410,
+				"charCount": 212,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"耗时越短评级越高。除手榴弹以外，弹药没有使用限制，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 420,
+				"charCount": 192,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"武器只有手榴弹和手枪。耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 430,
+				"charCount": 172,
+				"strList": [
+					"本次训练的目标是物资收集。",
+					"收集率越高评级越高。[9999]",
+					"相比于消灭敌人，请优先考虑收集物资。",
+					""
+				]
+			},
+			{
+				"id": 440,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是营救战俘。",
+					"战俘解救率越高评级越高。",
+					"救出战俘可以增强我军的战斗力。",
+					"相比于消灭敌人，请优先考虑营救战俘。[9999]",
+					""
+				]
+			},
+			{
+				"id": 450,
+				"charCount": 218,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"允许3次失误——当然了，失误越少评级越高。",
+					"时间不在考量范围之内，所以建议谨慎行事。[9999]",
+					""
+				]
+			},
+			{
+				"id": 460,
+				"charCount": 214,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"耗时越短评级越高。除手榴弹以外，弹药没有使用限制，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 470,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"武器只有手榴弹和手枪。耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 480,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是在一定时间内不失误。",
+					"躲避掉落的障碍物，在这段时间内不受伤。",
+					"坚持时间越长评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 490,
+				"charCount": 216,
+				"strList": [
+					"本次训练的目标是清除障碍物。",
+					"请摧毁战场内的全部障碍物。",
+					"耗时越短评级越高。",
+					"障碍物中藏有弹药，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 500,
+				"charCount": 172,
+				"strList": [
+					"本次训练的目标是收集藏在障碍物中的物资。",
+					"请收集战场内障碍物中隐藏的全部物资。",
+					"限制时间内收集的物资越多，评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 510,
+				"charCount": 206,
+				"strList": [
+					"本次训练的目标是消灭敌空军。",
+					"请消灭战场内所有的敌方航空器。",
+					"耗时越短评级越高。请善加利用敌人的地面设备。[9999]",
+					""
+				]
+			},
+			{
+				"id": 520,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"别让球落地，搬运到目的地的球越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 530,
+				"charCount": 198,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"球只有一颗，耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 540,
+				"charCount": 150,
+				"strList": [
+					"本次训练的目标是收集球。",
+					"请用射击推动矿车去接球。",
+					"接到的球越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 550,
+				"charCount": 188,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"球只有一颗，击球次数越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 560,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是移动电梯。",
+					"请用射击大型电梯，将其移动到目的地。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 570,
+				"charCount": 168,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请肃清电梯上的敌人，向目的地挺进。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 580,
+				"charCount": 182,
+				"strList": [
+					"本次训练的目标是摧毁敌军战力。",
+					"请在限定时间内尽可能多地破坏敌军武器。",
+					"破坏数量越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 590,
+				"charCount": 234,
+				"strList": [
+					"本次训练的目标是保卫粮食安全。",
+					"请在限定时间内尽可能采集食材。",
+					"食材采集越多评级越高。",
+					"当心菌子，它们会暂时令身体难以控制！[9999]",
+					""
+				]
+			},
+			{
+				"id": 600,
+				"charCount": 174,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"充分利用战场上方的立足点。",
+					"达成目标耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 610,
+				"charCount": 158,
+				"strList": [
+					"本次训练的目标是确保球不落地。",
+					"请在限定时间内确保尽可能多的球不落地。[9999]",
+					"坚持的时间越长、未落地的球越多，评级越高。",
+					""
+				]
+			},
+			{
+				"id": 620,
+				"charCount": 254,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请在限定时间内突破战线。",
+					"只能使用近战攻击。",
+					"达成目标耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 630,
+				"charCount": 184,
+				"strList": [
+					"本次训练的目标是摧毁敌军战力。",
+					"请在限定时间内尽可能多地破坏敌军武器。",
+					"破坏数量越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 640,
+				"charCount": 144,
+				"strList": [
+					"本次训练的目标是确保球不落地。",
+					"在时间用完前保住尽可能多的球。",
+					"保住它们越久，评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 650,
+				"charCount": 158,
+				"strList": [
+					"本次训练的目标是增强运动能力。",
+					"请在限定时间内尽可能地跳。",
+					"滞空时间越长评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 660,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 670,
+				"charCount": 210,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"立足点很不稳定，请小心！[9999]",
+					""
+				]
+			},
+			{
+				"id": 680,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是提升时机把控能力。",
+					"请尽可能迟地躲避逼近的大型雪橇。",
+					"躲避时离雪橇越近评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 690,
+				"charCount": 262,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"另外，任何武器都不能使用。",
+					"只能通过巨灵战车的攻击手段消灭敌人。[9999]",
+					""
+				]
+			},
+			{
+				"id": 700,
+				"charCount": 154,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请在限定时间内到达目的地。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 710,
+				"charCount": 208,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"由于立足点会慢慢下沉，所以请在战斗中不断走动。[9999]",
+					""
+				]
+			},
+			{
+				"id": 720,
+				"charCount": 230,
+				"strList": [
+					"本次训练的目标是保卫粮食安全。",
+					"请在限定时间内尽可能采集食材。",
+					"食材采集越多评级越高。",
+					"当心青蛙，它们会暂时令身体难以控制！[9999]",
+					""
+				]
+			},
+			{
+				"id": 760,
+				"charCount": 340,
+				"strList": [
+					"本训练科目看的是在失误而失败前能将流程推进到多远。",
+					"最后将根据完成的任务数得到评级。",
+					"除手榴弹外的弹药没有使用限制。",
+					"由于除了手上武器，无法存储备用的武器，如何运用随机应变的战术将是过关的关键。[9999]",
+					""
+				]
+			},
+			{
+				"id": 800,
+				"charCount": 40,
+				"strList": [
+					"这样的训练科目对你来说没问题，是吧？",
+					""
+				]
+			},
+			{
+				"id": 810,
+				"charCount": 36,
+				"strList": [
+					"你能搞定这项训练科目吗？",
+					""
+				]
+			},
+			{
+				"id": 1800,
+				"charCount": 76,
+				"strList": [
+					"[9001]",
+					"虽说您是长官，但训练中我是不会手下留情的。",
+					"请做好准备。",
+					""
+				]
+			},
+			{
+				"id": 1801,
+				"charCount": 84,
+				"strList": [
+					"[9006]",
+					"啊，我已经调整好摄像机了，",
+					"稍后我们俩一起来看回放吧！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1810,
+				"charCount": 34,
+				"strList": [
+					"[9005]",
+					"您辛苦了！",
+					"好厉害。",
+					""
+				]
+			},
+			{
+				"id": 1811,
+				"charCount": 84,
+				"strList": [
+					"[9005]",
+					"您很好地掌握了战斗基础，快刀斩乱麻地完成了战斗。",
+					""
+				]
+			},
+			{
+				"id": 1812,
+				"charCount": 96,
+				"strList": [
+					"完美无瑕。",
+					"[9006]",
+					"那么这次拍摄的录像，我就笑纳咯……",
+					""
+				]
+			},
+			{
+				"id": 1813,
+				"charCount": 74,
+				"strList": [
+					"[9004]",
+					"哎？这算军事机密，不准个人私藏？",
+					"这样啊……[9999]",
+					""
+				]
+			},
+			{
+				"id": 1814,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1820,
+				"charCount": 42,
+				"strList": [
+					"[9004]",
+					"怎么了？有没有受伤啊？",
+					""
+				]
+			},
+			{
+				"id": 1821,
+				"charCount": 80,
+				"strList": [
+					"[9001]",
+					"啊？是！",
+					"这次训练的录像是吧？",
+					"马上……马上就回放！",
+					""
+				]
+			},
+			{
+				"id": 1822,
+				"charCount": 76,
+				"strList": [
+					"[9003]",
+					"哎？都是脸部特写，无法看清周围状况？",
+					""
+				]
+			},
+			{
+				"id": 1823,
+				"charCount": 88,
+				"strList": [
+					"这……怎么这样啊……但是！",
+					"[9006]",
+					"遇见危机时的表情，实在是太……",
+					""
+				]
+			},
+			{
+				"id": 1824,
+				"charCount": 92,
+				"strList": [
+					"[9004]",
+					"哎……那个，那个！",
+					"下次我一定会好好拍的！",
+					"请把相机还给我嘛~[9999]",
+					""
+				]
+			},
+			{
+				"id": 1830,
+				"charCount": 64,
+				"strList": [
+					"[9005]",
+					"祝贺你！",
+					"[9004]",
+					"但是……",
+					"我还是有点担心……",
+					""
+				]
+			},
+			{
+				"id": 1831,
+				"charCount": 94,
+				"strList": [
+					"[9005]",
+					"你年纪轻轻，却已经坐到了这个位置。",
+					"那帮老资历脸上想必都不好看吧？",
+					""
+				]
+			},
+			{
+				"id": 1832,
+				"charCount": 86,
+				"strList": [
+					"[9001]",
+					"哎？当……当然！",
+					"无论敌人是何方神圣，我会永远做您的部下……",
+					""
+				]
+			},
+			{
+				"id": 1833,
+				"charCount": 48,
+				"strList": [
+					"[9006]",
+					"并且……如果可以的话……做你的恋人……",
+					""
+				]
+			},
+			{
+				"id": 1834,
+				"charCount": 94,
+				"strList": [
+					"[9001]",
+					"对……对了！",
+					"我们来拍张照留作纪念吧！",
+					"呃？不愿意啊？",
+					"这样啊……[9999]",
+					""
+				]
+			},
+			{
+				"id": 1835,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1836,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1840,
+				"charCount": 86,
+				"strList": [
+					"[9001]",
+					"终于，这一天终于来到了……",
+					"您成为我军最高级别的干部咯。",
+					""
+				]
+			},
+			{
+				"id": 1841,
+				"charCount": 124,
+				"strList": [
+					"[9004]",
+					"……那么，我们就此别过吧……",
+					"像我这样的人在您身边，一定会拖累您的。",
+					""
+				]
+			},
+			{
+				"id": 1842,
+				"charCount": 98,
+				"strList": [
+					"[9007]",
+					"……是的，我说过永远会追随您的，",
+					"但是真到了这天，看来还是不行。",
+					""
+				]
+			},
+			{
+				"id": 1843,
+				"charCount": 64,
+				"strList": [
+					"[9007]",
+					"……好像我又一次欺骗了您。",
+					"实在是非常抱歉……",
+					""
+				]
+			},
+			{
+				"id": 1844,
+				"charCount": 88,
+				"strList": [
+					"[9004]",
+					"我没事。",
+					"即使失去了您，我也永远",
+					"不会忘记关于您的回忆。",
+					""
+				]
+			},
+			{
+				"id": 1845,
+				"charCount": 104,
+				"strList": [
+					"[9007]",
+					"是……您希望我离开军队？",
+					"留在这里只会带来更多的麻烦……",
+					""
+				]
+			},
+			{
+				"id": 1846,
+				"charCount": 42,
+				"strList": [
+					"[9007]",
+					"我也很伤心……因为……",
+					"我以为我能不……",
+					"……",
+					""
+				]
+			},
+			{
+				"id": 1847,
+				"charCount": 32,
+				"strList": [
+					"[9001]",
+					"嗯……",
+					"啊？什么？[9999]",
+					""
+				]
+			},
+			{
+				"id": 1848,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1849,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1850,
+				"charCount": 50,
+				"strList": [
+					"[9006]",
+					"结……结婚？",
+					"这……这是……戒指？",
+					""
+				]
+			},
+			{
+				"id": 1851,
+				"charCount": 78,
+				"strList": [
+					"[9004]",
+					"不……不能这样啊！",
+					"我不能同意的！",
+					"我会拖累您的，不是吗？",
+					"我会成为您的负担的，不是吗？",
+					""
+				]
+			},
+			{
+				"id": 1852,
+				"charCount": 52,
+				"strList": [
+					"[9004]",
+					"……我不够坚强，不是吗？",
+					"……我很任性，不是吗？",
+					"……我会说谎，不是吗？",
+					"……我……我……",
+					""
+				]
+			},
+			{
+				"id": 1853,
+				"charCount": 30,
+				"strList": [
+					"你愿意照顾我、保护我吗？",
+					""
+				]
+			},
+			{
+				"id": 1854,
+				"charCount": 72,
+				"strList": [
+					"[9006]",
+					"……",
+					"好……好的！",
+					"永远在一起吧！",
+					"无论现在未来，无论天涯海角，",
+					"我都会陪在你身边！",
+					""
+				]
+			},
+			{
+				"id": 1855,
+				"charCount": 72,
+				"strList": [
+					"[9005]",
+					"是！",
+					"即使落后了，也会拼命飞奔，",
+					"追随在您身后！",
+					""
+				]
+			},
+			{
+				"id": 1856,
+				"charCount": 68,
+				"strList": [
+					"[9005]",
+					"永远不会离开您的身边，",
+					"只要我还活着！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1857,
+				"charCount": 58,
+				"strList": [
+					"[9004]",
+					"……",
+					"我？把我训练得更强大？",
+					"直到能够保护您？",
+					""
+				]
+			},
+			{
+				"id": 1858,
+				"charCount": 56,
+				"strList": [
+					"您……",
+					"[9001]",
+					"做我的教官？！",
+					""
+				]
+			},
+			{
+				"id": 1859,
+				"charCount": 50,
+				"strList": [
+					"[9005]",
+					"是！",
+					"请多多指教！",
+					"教官大人！",
+					""
+				]
+			},
+			{
+				"id": 1860,
+				"charCount": 84,
+				"strList": [
+					"[9005]",
+					"从现在开始……",
+					"无论昼夜……",
+					"请永不停息地训练我吧！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1861,
+				"charCount": 0,
+				"strList": []
+			}
+		]
+	},
+	{
+		"blockCount": 131,
+		"blockList": [
+			{
+				"id": 110,
+				"charCount": 122,
+				"strList": [
+					"[9005]",
+					"早上好，大魔王殿下。",
+					"今天能再次沐浴在您令人畏惧的气场下，实在是无上荣幸。[9999]",
+					""
+				]
+			},
+			{
+				"id": 200,
+				"charCount": 56,
+				"strList": [
+					"[9002]",
+					"您……您居然和我这种身份低微的人谈话！",
+					""
+				]
+			},
+			{
+				"id": 201,
+				"charCount": 48,
+				"strList": [
+					"[9007]",
+					"我是地球上最幸福的人了……",
+					""
+				]
+			},
+			{
+				"id": 202,
+				"charCount": 92,
+				"strList": [
+					"[9007]",
+					"啊……对……对不起。殿下的仁爱令我感动不已。[9998]",
+					" ",
+					" ",
+					""
+				]
+			},
+			{
+				"id": 203,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 210,
+				"charCount": 42,
+				"strList": [
+					"[9001]",
+					"您问我的年龄吗？",
+					"鄙人25岁。",
+					""
+				]
+			},
+			{
+				"id": 211,
+				"charCount": 120,
+				"strList": [
+					"[9001]",
+					"虽然我还太年轻、太稚嫩，但，如若可以，我愿侍奉您直到天荒地老。[9998]",
+					""
+				]
+			},
+			{
+				"id": 212,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 220,
+				"charCount": 120,
+				"strList": [
+					"[9002]",
+					"为了使这个房间与殿下您相称，我日夜清理并装饰这个房间。",
+					""
+				]
+			},
+			{
+				"id": 221,
+				"charCount": 92,
+				"strList": [
+					"[9002]",
+					"就如这束幽兰，殿下能够喜欢的话我就会感到荣幸至极。[9998]",
+					""
+				]
+			},
+			{
+				"id": 222,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 230,
+				"charCount": 46,
+				"strList": [
+					"[9001]",
+					"您问我的电话号码吗？",
+					""
+				]
+			},
+			{
+				"id": 231,
+				"charCount": 64,
+				"strList": [
+					"[9001]",
+					"殿下，我既已发誓永远服侍您，",
+					""
+				]
+			},
+			{
+				"id": 232,
+				"charCount": 66,
+				"strList": [
+					"[9001]",
+					"何囿于如此小节呢？[9998]",
+					""
+				]
+			},
+			{
+				"id": 233,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 240,
+				"charCount": 44,
+				"strList": [
+					"[9002]",
+					"我没有所谓的故乡。",
+					""
+				]
+			},
+			{
+				"id": 241,
+				"charCount": 86,
+				"strList": [
+					"[9002]",
+					"殿下存在的地方对于我来说就是唯一具有存在价值的地方。[9998]",
+					""
+				]
+			},
+			{
+				"id": 242,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 250,
+				"charCount": 118,
+				"strList": [
+					"[9002]",
+					"为了抚慰殿下心灵中的穷奇，三尺微命的我特意学习了“死亡金属”。",
+					"",
+					""
+				]
+			},
+			{
+				"id": 251,
+				"charCount": 36,
+				"strList": [
+					"[9006]",
+					"哎，现在，在这里？ ",
+					""
+				]
+			},
+			{
+				"id": 252,
+				"charCount": 106,
+				"strList": [
+					"[9002]",
+					"不！没什么！能够在殿下面前表演是我无上的光荣。",
+					""
+				]
+			},
+			{
+				"id": 253,
+				"charCount": 24,
+				"strList": [
+					"[9003]",
+					"♪咦哦……哦哦哦哦……",
+					"♪咦哦……哦哦哦哦……",
+					" ",
+					"♪人潮人海中，有你有我，",
+					"♪相遇相识相互琢磨。",
+					"♪人潮人海中，是你是我，",
+					"♪装作正派面带笑容……",
+					""
+				]
+			},
+			{
+				"id": 254,
+				"charCount": 98,
+				"strList": [
+					"[9006]",
+					"您觉得怎么样……？",
+					"您不喜欢吗……",
+					"实……实在是非常抱歉！",
+					""
+				]
+			},
+			{
+				"id": 255,
+				"charCount": 94,
+				"strList": [
+					"[9003]",
+					"我将无眠无休地研习此艺，不惜指断弦崩，直至可博殿下一笑。[9998]",
+					""
+				]
+			},
+			{
+				"id": 256,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 260,
+				"charCount": 58,
+				"strList": [
+					"[9006]",
+					"现在我所做的工作就已经令我欣喜若狂了。",
+					""
+				]
+			},
+			{
+				"id": 261,
+				"charCount": 82,
+				"strList": [
+					"[9006]",
+					"因为这样我就能始终服侍于殿下的左右……[9998]",
+					""
+				]
+			},
+			{
+				"id": 262,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 270,
+				"charCount": 48,
+				"strList": [
+					"[9001]",
+					"您问我休息日是如何度过的吗？",
+					""
+				]
+			},
+			{
+				"id": 271,
+				"charCount": 84,
+				"strList": [
+					"[9001]",
+					"您竭诚的佣仆，为您服务，永不停歇。",
+					""
+				]
+			},
+			{
+				"id": 272,
+				"charCount": 84,
+				"strList": [
+					"[9001]",
+					"能够沐浴在殿下您的临幸下，我就心安了。[9998]",
+					""
+				]
+			},
+			{
+				"id": 273,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 280,
+				"charCount": 34,
+				"strList": [
+					"[9001]",
+					"您问我有男友吗？",
+					""
+				]
+			},
+			{
+				"id": 281,
+				"charCount": 78,
+				"strList": [
+					"[9002]",
+					"凡人的男性什么的……自从见识了殿下的伟大之后就再也不放在眼里了。",
+					""
+				]
+			},
+			{
+				"id": 282,
+				"charCount": 50,
+				"strList": [
+					"[9002]",
+					"无论如何请一定让我陪伴在您的身边。[9998]",
+					""
+				]
+			},
+			{
+				"id": 283,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 290,
+				"charCount": 38,
+				"strList": [
+					"[9006]",
+					"您问我的三围吗？",
+					""
+				]
+			},
+			{
+				"id": 291,
+				"charCount": 86,
+				"strList": [
+					"[9006]",
+					"如您所愿。从上到下依次为(88, 58, 89)，单位自然是厘米。",
+					" ",
+					""
+				]
+			},
+			{
+				"id": 292,
+				"charCount": 112,
+				"strList": [
+					"[9006]",
+					"其实，胸部过大对我来说也是一种烦恼，这是我第一次对别人说出我的真实三围……",
+					""
+				]
+			},
+			{
+				"id": 293,
+				"charCount": 80,
+				"strList": [
+					"[9001]",
+					"只是，在殿下面前我不想对您有任何的保留。[9998]",
+					""
+				]
+			},
+			{
+				"id": 294,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 300,
+				"charCount": 44,
+				"strList": [
+					"[9002]",
+					"身高是165厘米，体重是51公斤。",
+					""
+				]
+			},
+			{
+				"id": 301,
+				"charCount": 64,
+				"strList": [
+					"[9002]",
+					"您觉得如何，有什么问题吗？[9998]",
+					""
+				]
+			},
+			{
+				"id": 302,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 310,
+				"charCount": 66,
+				"strList": [
+					"[9002]",
+					"对我来说不需要什么所谓的爱好。",
+					""
+				]
+			},
+			{
+				"id": 311,
+				"charCount": 100,
+				"strList": [
+					"[9002]",
+					"硬要说喜欢的事的话，就是陪伴在殿下的身边照顾您了。",
+					""
+				]
+			},
+			{
+				"id": 312,
+				"charCount": 76,
+				"strList": [
+					"[9002]",
+					"做能够让殿下高兴的事就是我生存下去的唯一理由。[9998]",
+					""
+				]
+			},
+			{
+				"id": 313,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 320,
+				"charCount": 62,
+				"strList": [
+					"[9004]",
+					"这就是我曾提起过的手链……",
+					""
+				]
+			},
+			{
+				"id": 321,
+				"charCount": 88,
+				"strList": [
+					"[9007]",
+					"……已经断货了，剩下的只有些相似设计的手环。",
+					""
+				]
+			},
+			{
+				"id": 322,
+				"charCount": 50,
+				"strList": [
+					"[9001]",
+					"哎……您觉得没有必要吗？",
+					""
+				]
+			},
+			{
+				"id": 323,
+				"charCount": 110,
+				"strList": [
+					"[9007]",
+					"请……请您原谅！无论何种装饰物在殿下面前不过是一些金属而已，但是……",
+					""
+				]
+			},
+			{
+				"id": 324,
+				"charCount": 100,
+				"strList": [
+					"[9006]",
+					"哎，给我的吗？不，我真不能要！",
+					"一切都听从殿下您的旨意……[9998]",
+					""
+				]
+			},
+			{
+				"id": 325,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 330,
+				"charCount": 76,
+				"strList": [
+					"[9004]",
+					"最近我的料理水准您是否满意？",
+					""
+				]
+			},
+			{
+				"id": 331,
+				"charCount": 114,
+				"strList": [
+					"[9004]",
+					"为了殿下，我日以继夜地练习。不知是否合殿下的口味？",
+					""
+				]
+			},
+			{
+				"id": 332,
+				"charCount": 82,
+				"strList": [
+					"[9004]",
+					"我太怕做坏了。",
+					"这样的担忧在不知道多少个不眠之夜中都充斥着……",
+					""
+				]
+			},
+			{
+				"id": 333,
+				"charCount": 94,
+				"strList": [
+					"[9006]",
+					"哎？真……真的吗？",
+					"真不敢相信……",
+					"……我……我太高兴了……(抽泣)……",
+					""
+				]
+			},
+			{
+				"id": 334,
+				"charCount": 36,
+				"strList": [
+					"[9002]",
+					"这……这是今天的料理！",
+					""
+				]
+			},
+			{
+				"id": 335,
+				"charCount": 58,
+				"strList": [
+					"[9006]",
+					"啊……今天的料理会有点咸……",
+					""
+				]
+			},
+			{
+				"id": 336,
+				"charCount": 64,
+				"strList": [
+					"[9002]",
+					"但我保证会让您觉得满意的。",
+					""
+				]
+			},
+			{
+				"id": 337,
+				"charCount": 46,
+				"strList": [
+					"[9006]",
+					"稍后还有甜品……[9998]",
+					""
+				]
+			},
+			{
+				"id": 340,
+				"charCount": 40,
+				"strList": [
+					"[9001]",
+					"我没有名字。",
+					""
+				]
+			},
+			{
+				"id": 341,
+				"charCount": 106,
+				"strList": [
+					"[9001]",
+					"我是殿下您忠实的奴仆。",
+					"所以您想怎么称呼我都可以。[9998]",
+					""
+				]
+			},
+			{
+				"id": 342,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 350,
+				"charCount": 42,
+				"strList": [
+					"[9001]",
+					"是，您是问我的身体状况吗？",
+					""
+				]
+			},
+			{
+				"id": 351,
+				"charCount": 80,
+				"strList": [
+					"[9001]",
+					"感谢您如此关切我等三尺微命之人的身体。",
+					""
+				]
+			},
+			{
+				"id": 352,
+				"charCount": 78,
+				"strList": [
+					"[9002]",
+					"无论我的身体如何，受到殿下的照顾就是我最大的福气了。",
+					""
+				]
+			},
+			{
+				"id": 353,
+				"charCount": 92,
+				"strList": [
+					"[9002]",
+					"只要我还有利用价值，请尽管差遣我吧！![9998]",
+					""
+				]
+			},
+			{
+				"id": 354,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 360,
+				"charCount": 36,
+				"strList": [
+					"[9001]",
+					"您问我喜欢的男性类型吗？",
+					""
+				]
+			},
+			{
+				"id": 361,
+				"charCount": 118,
+				"strList": [
+					"[9002]",
+					"我已经决定将我的身体和灵魂都奉献给殿下您了。",
+					"我对凡人的男性已经没有兴趣了。[9998]",
+					""
+				]
+			},
+			{
+				"id": 362,
+				"charCount": 6,
+				"strList": [
+					" ",
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 370,
+				"charCount": 60,
+				"strList": [
+					"[9001]",
+					"殿下，差不多到破坏和杀戮的时间了。",
+					""
+				]
+			},
+			{
+				"id": 371,
+				"charCount": 60,
+				"strList": [
+					"[9002]",
+					"只是与殿下聊了一会儿，我就已经很满足了。",
+					""
+				]
+			},
+			{
+				"id": 372,
+				"charCount": 92,
+				"strList": [
+					"[9002]",
+					"接下来请展现您那压倒性的力量将我引入崇高的世界吧。",
+					""
+				]
+			},
+			{
+				"id": 400,
+				"charCount": 198,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"允许3次失误——当然了，失误越少评级越高。",
+					"时间不在考量范围之内，所以建议谨慎行事。[9999]",
+					""
+				]
+			},
+			{
+				"id": 410,
+				"charCount": 212,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"耗时越短评级越高。除手榴弹以外，弹药没有使用限制，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 420,
+				"charCount": 192,
+				"strList": [
+					"本次训练的目标是歼灭敌人有生力量。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"武器只有手榴弹和手枪。耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 430,
+				"charCount": 172,
+				"strList": [
+					"本次训练的目标是物资收集。",
+					"收集率越高评级越高。[9999]",
+					"相比于消灭敌人，请优先考虑收集物资。",
+					""
+				]
+			},
+			{
+				"id": 440,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是营救战俘。",
+					"战俘解救率越高评级越高。",
+					"救出战俘可以增强我军的战斗力。",
+					"相比于消灭敌人，请优先考虑营救战俘。[9999]",
+					""
+				]
+			},
+			{
+				"id": 450,
+				"charCount": 218,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"允许3次失误——当然了，失误越少评级越高。",
+					"时间不在考量范围之内，所以建议谨慎行事。[9999]",
+					""
+				]
+			},
+			{
+				"id": 460,
+				"charCount": 214,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"耗时越短评级越高。除手榴弹以外，弹药没有使用限制，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 470,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是攻克敌军据点。",
+					"成败一线间，没有再犯另一次错误的机会。",
+					"武器只有手榴弹和手枪。耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 480,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是在一定时间内不失误。",
+					"躲避掉落的障碍物，在这段时间内不受伤。",
+					"坚持时间越长评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 490,
+				"charCount": 216,
+				"strList": [
+					"本次训练的目标是清除障碍物。",
+					"请摧毁战场内的全部障碍物。",
+					"耗时越短评级越高。",
+					"障碍物中藏有弹药，请善加利用。[9999]",
+					""
+				]
+			},
+			{
+				"id": 500,
+				"charCount": 172,
+				"strList": [
+					"本次训练的目标是收集藏在障碍物中的物资。",
+					"请收集战场内障碍物中隐藏的全部物资。",
+					"限制时间内收集的物资越多，评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 510,
+				"charCount": 206,
+				"strList": [
+					"本次训练的目标是消灭敌空军。",
+					"请消灭战场内所有的敌方航空器。",
+					"耗时越短评级越高。请善加利用敌人的地面设备。[9999]",
+					""
+				]
+			},
+			{
+				"id": 520,
+				"charCount": 194,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"别让球落地，搬运到目的地的球越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 530,
+				"charCount": 198,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"球只有一颗，耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 540,
+				"charCount": 150,
+				"strList": [
+					"本次训练的目标是收集球。",
+					"请用射击推动矿车去接球。",
+					"接到的球越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 550,
+				"charCount": 188,
+				"strList": [
+					"本次训练的目标是搬运球。",
+					"请通过射击球，将其送到目的地。",
+					"球只有一颗，击球次数越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 560,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是移动电梯。",
+					"请用射击大型电梯，将其移动到目的地。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 570,
+				"charCount": 168,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请肃清电梯上的敌人，向目的地挺进。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 580,
+				"charCount": 182,
+				"strList": [
+					"本次训练的目标是摧毁敌军战力。",
+					"请在限定时间内尽可能多地破坏敌军武器。",
+					"破坏数量越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 590,
+				"charCount": 234,
+				"strList": [
+					"本次训练的目标是保卫粮食安全。",
+					"请在限定时间内尽可能采集食材。",
+					"食材采集越多评级越高。",
+					"当心菌子，它们会暂时令身体难以控制！[9999]",
+					""
+				]
+			},
+			{
+				"id": 600,
+				"charCount": 174,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"充分利用战场上方的立足点。",
+					"达成目标耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 610,
+				"charCount": 158,
+				"strList": [
+					"本次训练的目标是确保球不落地。",
+					"请在限定时间内确保尽可能多的球不落地。[9999]",
+					"坚持的时间越长、未落地的球越多，评级越高。",
+					""
+				]
+			},
+			{
+				"id": 620,
+				"charCount": 254,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请在限定时间内突破战线。",
+					"只能使用近战攻击。",
+					"达成目标耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 630,
+				"charCount": 184,
+				"strList": [
+					"本次训练的目标是摧毁敌军战力。",
+					"请在限定时间内尽可能多地破坏敌军武器。",
+					"破坏数量越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 640,
+				"charCount": 144,
+				"strList": [
+					"本次训练的目标是确保球不落地。",
+					"在时间用完前保住尽可能多的球。",
+					"保住它们越久，评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 650,
+				"charCount": 158,
+				"strList": [
+					"本次训练的目标是增强运动能力。",
+					"请在限定时间内尽可能地跳。",
+					"滞空时间越长评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 660,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 670,
+				"charCount": 210,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"立足点很不稳定，请小心！[9999]",
+					""
+				]
+			},
+			{
+				"id": 680,
+				"charCount": 164,
+				"strList": [
+					"本次训练的目标是提升时机把控能力。",
+					"请尽可能迟地躲避逼近的大型雪橇。",
+					"躲避时离雪橇越近评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 690,
+				"charCount": 262,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"另外，任何武器都不能使用。",
+					"只能通过巨灵战车的攻击手段消灭敌人。[9999]",
+					""
+				]
+			},
+			{
+				"id": 700,
+				"charCount": 154,
+				"strList": [
+					"本次训练的目标是突破战线。",
+					"请在限定时间内到达目的地。",
+					"耗时越短评级越高。[9999]",
+					""
+				]
+			},
+			{
+				"id": 710,
+				"charCount": 208,
+				"strList": [
+					"本次训练的目标是据点防御。",
+					"请在限定时间内抵御敌人的进攻。",
+					"没有坚持住的话就没有没有评价。",
+					"歼灭敌人越多评级越高。",
+					"由于立足点会慢慢下沉，所以请在战斗中不断走动。[9999]",
+					""
+				]
+			},
+			{
+				"id": 720,
+				"charCount": 230,
+				"strList": [
+					"本次训练的目标是保卫粮食安全。",
+					"请在限定时间内尽可能采集食材。",
+					"食材采集越多评级越高。",
+					"当心青蛙，它们会暂时令身体难以控制！[9999]",
+					""
+				]
+			},
+			{
+				"id": 760,
+				"charCount": 340,
+				"strList": [
+					"本训练科目看的是在失误而失败前能将流程推进到多远。",
+					"最后将根据完成的任务数得到评级。",
+					"除手榴弹外的弹药没有使用限制。",
+					"由于除了手上武器，无法存储备用的武器，如何运用随机应变的战术将是过关的关键。[9999]",
+					""
+				]
+			},
+			{
+				"id": 800,
+				"charCount": 40,
+				"strList": [
+					"这样的训练科目对你来说没问题，是吧？",
+					""
+				]
+			},
+			{
+				"id": 810,
+				"charCount": 36,
+				"strList": [
+					"你能搞定这项训练科目吗？",
+					""
+				]
+			},
+			{
+				"id": 1800,
+				"charCount": 90,
+				"strList": [
+					"[9003]",
+					"殿下，到了审判的时刻了！",
+					"现在就向愚蠢的人们挥下审判的铁锤吧！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1801,
+				"charCount": 4,
+				"strList": [
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1810,
+				"charCount": 34,
+				"strList": [
+					"[9005]",
+					"您辛苦了！",
+					"好厉害。",
+					""
+				]
+			},
+			{
+				"id": 1811,
+				"charCount": 84,
+				"strList": [
+					"[9005]",
+					"您很好地掌握了战斗基础，快刀斩乱麻地完成了战斗。",
+					""
+				]
+			},
+			{
+				"id": 1812,
+				"charCount": 96,
+				"strList": [
+					"完美无瑕。",
+					"[9006]",
+					"那么这次拍摄的录像，我就笑纳咯……",
+					""
+				]
+			},
+			{
+				"id": 1813,
+				"charCount": 74,
+				"strList": [
+					"[9004]",
+					"哎？这算军事机密，不准个人私藏？",
+					"这样啊……[9999]",
+					""
+				]
+			},
+			{
+				"id": 1814,
+				"charCount": 4,
+				"strList": [
+					" ",
+					"",
+					""
+				]
+			},
+			{
+				"id": 1820,
+				"charCount": 108,
+				"strList": [
+					"[9004]",
+					"怎么样了，殿下？",
+					"有没有伤着您啊？",
+					"我会整日整夜为您护理伤口的！",
+					""
+				]
+			},
+			{
+				"id": 1821,
+				"charCount": 38,
+				"strList": [
+					"[9001]",
+					"哎，有杂念……吗？",
+					""
+				]
+			},
+			{
+				"id": 1822,
+				"charCount": 90,
+				"strList": [
+					"[9003]",
+					"会扰乱殿下心情的事物，我是决不允许它存在的！",
+					""
+				]
+			},
+			{
+				"id": 1823,
+				"charCount": 30,
+				"strList": [
+					"[9001]",
+					"哎？",
+					""
+				]
+			},
+			{
+				"id": 1824,
+				"charCount": 70,
+				"strList": [
+					"[9007]",
+					"是……是我吗？",
+					"……？！",
+					"……实在是非常抱歉！",
+					"……",
+					""
+				]
+			},
+			{
+				"id": 1825,
+				"charCount": 116,
+				"strList": [
+					"[9006]",
+					"但……但是在殿下心里一小块地方有我的存在，对我来说实在是至高无上的光荣！",
+					""
+				]
+			},
+			{
+				"id": 1826,
+				"charCount": 76,
+				"strList": [
+					"[9006]",
+					"此时此刻，请您激发出我内心的愉悦吧！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1830,
+				"charCount": 74,
+				"strList": [
+					"[9007]",
+					"啊，难道……",
+					"我知道这天一定会到来的。",
+					""
+				]
+			},
+			{
+				"id": 1831,
+				"charCount": 62,
+				"strList": [
+					"[9007]",
+					"终于潘朵拉的魔盒又一次打开了。",
+					""
+				]
+			},
+			{
+				"id": 1832,
+				"charCount": 52,
+				"strList": [
+					"[9001]",
+					"欢迎来到人类世界！",
+					""
+				]
+			},
+			{
+				"id": 1833,
+				"charCount": 62,
+				"strList": [
+					"[9003]",
+					"无所不能无所不知的大魔王殿下！[9999]",
+					""
+				]
+			},
+			{
+				"id": 1834,
+				"charCount": 6,
+				"strList": [
+					"138_",
+					""
+				]
+			}
+		]
+	}
+]

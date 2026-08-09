@@ -1,0 +1,35 @@
+{
+	"charSize": 20,
+	"pagePixSize": [256, 256],
+	"fonts": [
+		{
+			"fontFile": "/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf",
+			"ttcIndex": 0,
+			"charStr": "\u0011",
+			"charFile": "b.txt",
+			"border": 10,
+			"superSample": 16
+		},
+		{
+			"fontFile": "/usr/share/fonts/truetype/arphic/uming.ttc",
+			"ttcIndex": 0,
+			"charFile": "a.txt",
+			"border": 10,
+			"superSample": 16
+		},
+		{
+			"fontFile": "/usr/share/fonts/truetype/arphic/ukai.ttc",
+			"ttcIndex": 0,
+			"charStr": "，·",
+			"border": 10,
+			"superSample": 16
+		},
+		{
+			"fontFile": "/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf",
+			"ttcIndex": 0,
+			"charStr": "♫♪↑",
+			"border": 10,
+			"superSample": 16
+		}
+	]
+}
