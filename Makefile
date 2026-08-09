@@ -1,29 +1,38 @@
 TOOLCHAIN_DIR = ./toolchain
 TOOL_TXT_DIR = $(TOOLCHAIN_DIR)/msxx_txt
 TOOL_FONTLIB_DIR = $(TOOLCHAIN_DIR)/msxx_fontlib
-export TXT = $(TOOL_TXT_DIR)/msxx_txt.py
-export FONT = $(TOOL_FONTLIB_DIR)/msxx_fontlib.py
-export ATLAS = $(TOOL_FONTLIB_DIR)/atlas_gen.py
+TXT = $(TOOL_TXT_DIR)/msxx_txt.py
+FONT = $(TOOL_FONTLIB_DIR)/msxx_fontlib.py
+ATLAS = $(TOOL_FONTLIB_DIR)/atlas_gen.py
 BUILD_DIR = ./build
 
-TXT_TARGET = TEXT_US.TXT
+TXT_TARGET = $(BUILD_DIR)/TEXT_US.TXT
 TXT_DIR = ./src/txt
+TXT_SRC = $(TXT_DIR)/TEXT_CN.json
 
-FONT_TARGET = FONT_LIB.BIN
+FONT_TARGET = $(BUILD_DIR)/FONT_LIB.BIN
 FONT_DIR = ./src/fontlib
+FONT_SRC = $(FONT_DIR)/proj.json
 
 .PHONY : all clean
 all : txt font
 
-txt :
-	make -C $(TXT_DIR)/ TARGET=$(TXT_TARGET)
-	mv $(TXT_DIR)/$(TXT_TARGET) $(BUILD_DIR)/ -v
+txt : $(TXT_TARGET)
 
-font :
-	make -C $(FONT_DIR)/ TARGET=$(FONT_TARGET)
-	mv $(FONT_DIR)/$(FONT_TARGET) $(BUILD_DIR)/ -v
+$(TXT_TARGET) : $(TXT_SRC)
+	$(TXT) $(TXT_SRC) json2txt -o $(TXT_TARGET)
+
+font : $(FONT_TARGET)
+
+$(FONT_TARGET) : FONT_SRC_ABS = $(shell realpath $(FONT_SRC))
+$(FONT_TARGET) : ATLAS_ABS = $(shell realpath $(ATLAS))
+$(FONT_TARGET) : FONT_ABS = $(shell realpath $(FONT))
+$(FONT_TARGET) : $(FONT_SRC)
+	( \
+	cd $(BUILD_DIR) && \
+	$(ATLAS_ABS) $(FONT_SRC_ABS) && \
+	$(FONT_ABS) write \
+	)
 
 clean :
-	make -C $(TXT_DIR) clean TARGET=$(TXT_TARGET)
-	make -C $(FONT_DIR) clean TARGET=$(FONT_TARGET)
 	rm ./$(BUILD_DIR)/* -f -v

@@ -1,5 +1,5 @@
 {
-	"charSize": 20,
+	"charSize": 18,
 	"pagePixSize": [256, 256],
 	"fonts": [
 		{
@@ -11,7 +11,7 @@
 			"superSample": 16
 		},
 		{
-			"fontFile": "/usr/share/fonts/truetype/arphic/uming.ttc",
+			"fontFile": "/home/wyz/.local/share/fonts/fangzheng/方正黑体简体.ttf",
 			"ttcIndex": 0,
 			"charFile": "a.txt",
 			"border": 10,
@@ -20,7 +20,7 @@
 		{
 			"fontFile": "/usr/share/fonts/truetype/arphic/ukai.ttc",
 			"ttcIndex": 0,
-			"charStr": "，·",
+			"charStr": "，·。、",
 			"border": 10,
 			"superSample": 16
 		},
