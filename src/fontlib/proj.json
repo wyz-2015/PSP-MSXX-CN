@@ -20,7 +20,7 @@
 		{
 			"fontFile": "/usr/share/fonts/truetype/arphic/ukai.ttc",
 			"ttcIndex": 0,
-			"charStr": "，·。、",
+			"charStr": "，·。、：；",
 			"border": 10,
 			"superSample": 16
 		},
